@@ -1,0 +1,3 @@
+[submodule "assets/img/games"]
+	path = assets/img/games
+	url = https://github.com/stb-gaming/sky-games-images.git

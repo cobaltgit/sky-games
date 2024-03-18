@@ -41,7 +41,7 @@ js:
 		{% assign off = mult | times: 9 %}
 		<div class="games-list">
 			{% for game in site.data.games | limit: 9 | offset: off %}
-			<a class="game" href="{{game.url}}" {% for attr in game %} data-{{attr[0]}}="{{attr[1]}}" {% endfor %}><img
+			<a class="game" href="{{game.portal|default:game.url}}" {% for attr in game %} data-{{attr[0]}}="{{attr[1]}}" {% endfor %}><img
 					src="{{site.url}}/assets/img/games/{{game.image|default:game.splash|default:game.menu|default:game.gameplay}}"
 					alt="{{game.title}}"></a>
 			{% endfor %}<a class="triangle left" href="javascript:lastPage()"></a>

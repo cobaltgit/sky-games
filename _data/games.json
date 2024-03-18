@@ -1,891 +1,1983 @@
 [
+	
+	
+	
+	
 	{
-		"title": "Denki Blocks!",
-		"description": "Join together gumblocks and create shapes to solve puzzles!",
-		"developer": "Denki",
-		"url": "https://denki.co.uk/sky/db/app.html",
-		"brand": "Denki",
-		"splash": "Denki/Denki Blocks!/Denki Blocks!/DB! Sky Active 003.jpg",
-		"gameplay": "Denki/Denki Blocks!/Denki Blocks!/DB! Sky Active 001.jpg",
-		"date": "2001-08-31",
-		"archived": "2023-04-28",
-		"image": null,
-		"menu": null,
-		"list": "classics",
-		"category": "Puzzle"
-	},
-	{
-		"title": "Super Breakout",
-		"description": "Use the bat and ball to destroy bricks and collect powerups!",
-		"developer": "Denki",
-		"url": "https://denki.co.uk/sky/breakout/app.html",
-		"brand": "Atari",
-		"splash": "Atari/Super Breakout/Splash.jpg",
-		"gameplay": "Atari/Super Breakout/Play - Combo.jpg",
-		"date": "2002-05-17",
-		"archived": "2023-05-04",
-		"image": null,
-		"menu": null,
-		"category": "Arcade"
-	},
-	{
-		"title": "Bust-a-Move",
-		"description": "Match coloured bubbles to clear levels!",
-		"developer": "Denki",
-		"url": "https://denki.co.uk/sky/bam/app.html",
-		"brand": "Taito",
-		"splash": "Taito/Bust-a-Move/Splash.jpg",
-		"gameplay": "Taito/Bust-a-Move/Play.jpg",
-		"date": "2002-10-11",
-		"archived": "2023-05-05",
-		"image": null,
-		"menu": null,
-		"category": "Arcade"
-	},
-	{
-		"title": "Pac-Man",
-		"description": "Gobble pills, avoid ghosts",
-		"developer": "Denki",
-		"url": "https://denki.co.uk/sky/pacman/app.html",
-		"brand": "Namco",
-		"splash": null,
-		"gameplay": "Namco/Pac-Man/Play.jpg",
-		"date": "2002-12-13",
-		"archived": "2023-05-01",
-		"image": "Namco/Pac-Man/Splash.jpg",
-		"menu": null,
-		"list": "classics",
-		"category": "Arcade"
-	},
-	{
-		"title": "Beehive Bedlam",
+	"title": "Beehive Bedlam",
 		"description": "Winter is on its way. Help the bees store flowers to make their honey.",
 		"developer": "Open",
 		"url": "https://beehive-bedlam.com/",
+		"portal": "https://beehive-bedlam.com/",
+		"highscores":"https://stb-gaming.github.io/high-scores/games/beehive-bedlam.com/",
+		"submit":"https://stb-gaming.github.io/high-scores/submit/score?game=beehive-bedlam.com",
 		"brand": "Open",
 		"splash": "SKY Games/Beehive Bedlam/Beehive_Bedlam_launch_2001.png",
 		"gameplay": "SKY Games/Beehive Bedlam/gameplay.png",
-		"date": "1999-07-??",
+		"date": "1999-07-01 00:00:00 +0000",
 		"archived": "2019-03-06",
-		"image": null,
+		"image": "",
 		"menu": "SKY Games/Beehive Bedlam/menu.png",
-		"list": "classics",
+		"list": "",
 		"category": "Puzzle"
 	},
+	
+	
+	
+	
 	{
-		"title": "Beehive Bedlam",
-		"description": "Never released!",
+	"title": "Bust-a-Move",
+		"description": "Match coloured bubbles to clear levels!",
 		"developer": "Denki",
-		"url": "https://denki.co.uk/sky/beehive/app.html",
-		"brand": null,
-		"splash": "SKY Games/Beehive Bedlam/Beehive_Denki_Splash.jpg",
-		"gameplay": "SKY Games/Beehive Bedlam/Beehive_Denki_Gameplay.jpg",
-		"date": "2004-??-??",
-		"archived": "2023-07-08",
-		"image": null,
-		"menu": null,
+		"url": "https://denki.co.uk/sky/bam/app.html",
+		"portal": "https://stb-gaming.github.io/sky/bam/app.html",
+		"highscores":"https://stb-gaming.github.io/high-scores/games/bam/",
+		"submit":"https://stb-gaming.github.io/high-scores/submit/score?game=bam",
+		"brand": "Taito",
+		"splash": "Taito/Bust-a-Move/Splash.jpg",
+		"gameplay": "Taito/Bust-a-Move/Play.jpg",
+		"date": "2002-10-11 00:00:00 +0000",
+		"archived": "2023-05-05",
+		"image": "",
+		"menu": "",
+		"list": "",
+		"category": "Arcade"
+	},
+	
+	
+	
+	
+	{
+	"title": "Ben 10: Call of the Wildmutt",
+		"description": "",
+		"developer": "Denki",
+		"url": "https://denki.co.uk/sky/ben10_2/app.html",
+		"portal": "https://stb-gaming.github.io/sky/ben10_2/app.html",
+		"highscores":"https://stb-gaming.github.io/high-scores/games/ben10_2/",
+		"submit":"https://stb-gaming.github.io/high-scores/submit/score?game=ben10_2",
+		"brand": "Cartoon Network",
+		"splash": "Cartoon Network/Ben10/Ben 10 Episode 2 Call of the Wildmutt/Splash copy.jpg",
+		"gameplay": "Cartoon Network/Ben10/Ben 10 Episode 2 Call of the Wildmutt/Play02 copy.jpg",
+		"date": "2023-10-22 08:36:35 +0000",
+		"archived": "2023-10-07",
+		"image": "",
+		"menu": "Cartoon Network/Ben10/Ben 10 Episode 2 Call of the Wildmutt/ModeSelect copy.jpg",
+		"list": "",
+		"category": "Action"
+	},
+	
+	
+	
+	
+	{
+	"title": "Ben 10: Upchuck Unveiled",
+		"description": "",
+		"developer": "Denki",
+		"url": "https://denki.co.uk/sky/ben10_3/app.html",
+		"portal": "https://stb-gaming.github.io/sky/ben10_3/app.html",
+		"highscores":"https://stb-gaming.github.io/high-scores/games/ben10_3/",
+		"submit":"https://stb-gaming.github.io/high-scores/submit/score?game=ben10_3",
+		"brand": "Cartoon Network",
+		"splash": "",
+		"gameplay": "",
+		"date": "2023-10-22 08:36:35 +0000",
+		"archived": "2023-10-07",
+		"image": "",
+		"menu": "Cartoon Network/Ben10/Ben 10 Episode 3 Upchuck Unveiled/menu.png",
+		"list": "",
+		"category": "Action"
+	},
+	
+	
+	
+	
+	{
+	"title": "Ben 10: Howlin' Benwolf",
+		"description": "",
+		"developer": "Denki",
+		"url": "https://denki.co.uk/sky/ben10_4/app.html",
+		"portal": "https://stb-gaming.github.io/sky/ben10_4/app.html",
+		"highscores":"https://stb-gaming.github.io/high-scores/games/ben10_4/",
+		"submit":"https://stb-gaming.github.io/high-scores/submit/score?game=ben10_4",
+		"brand": "Cartoon Network",
+		"splash": "",
+		"gameplay": "",
+		"date": "2023-10-22 08:36:35 +0000",
+		"archived": "2023-10-07",
+		"image": "",
+		"menu": "Cartoon Network/Ben10/Ben 10 Episode 4 Howlin' Benwolf/menu.png",
+		"list": "",
+		"category": "Action"
+	},
+	
+	
+	
+	
+	{
+	"title": "Bips 2.0",
+		"description": "Guide the Bips around, reclaim their stolen Treasure... and avoid the traps and dangers in every Cave. ",
+		"developer": "Denki",
+		"url": "https://denki.co.uk/sky/bips2/app.html",
+		"portal": "https://stb-gaming.github.io/sky/bips2/app.html",
+		"highscores":"https://stb-gaming.github.io/high-scores/games/bips2/",
+		"submit":"https://stb-gaming.github.io/high-scores/submit/score?game=bips2",
+		"brand": "Denki",
+		"splash": "",
+		"gameplay": "",
+		"date": "2023-10-22 08:36:35 +0000",
+		"archived": "2023-05-23",
+		"image": "",
+		"menu": "Denki/Bips! 2.0/menu.png",
+		"list": "",
+		"category": "Arcade"
+	},
+	
+	
+	
+	
+	{
+	"title": "Denki Blocks!",
+		"description": "Join together gumblocks and create shapes to solve puzzles!",
+		"developer": "Denki",
+		"url": "https://denki.co.uk/sky/db/app.html",
+		"portal": "https://stb-gaming.github.io/sky/db/app.html",
+		"highscores":"https://stb-gaming.github.io/high-scores/games/db/",
+		"submit":"https://stb-gaming.github.io/high-scores/submit/score?game=db",
+		"brand": "Denki",
+		"splash": "Denki/Denki Blocks!/Denki Blocks!/DB! Sky Active 003.jpg",
+		"gameplay": "Denki/Denki Blocks!/Denki Blocks!/DB! Sky Active 001.jpg",
+		"date": "2001-08-31 00:00:00 +0000",
+		"archived": "2023-04-28",
+		"image": "",
+		"menu": "Denki/Denki Blocks!/Denki Blocks!/menu.png",
+		"list": "",
 		"category": "Puzzle"
 	},
+	
+	
+	
+	
 	{
-		"title": "Caterpillar Crunch",
+	"title": "Super Breakout",
+		"description": "Use the bat and ball to destroy bricks and collect powerups!",
+		"developer": "Denki",
+		"url": "https://denki.co.uk/sky/breakout/app.html",
+		"portal": "https://stb-gaming.github.io/sky/breakout/app.html",
+		"highscores":"https://stb-gaming.github.io/high-scores/games/breakout/",
+		"submit":"https://stb-gaming.github.io/high-scores/submit/score?game=breakout",
+		"brand": "Atari",
+		"splash": "Atari/Super Breakout/Splash.jpg",
+		"gameplay": "Atari/Super Breakout/Play - Combo.jpg",
+		"date": "2002-05-17 00:00:00 +0000",
+		"archived": "2023-05-04",
+		"image": "",
+		"menu": "Atari/Super Breakout/menu.png",
+		"list": "",
+		"category": "Arcade"
+	},
+	
+	
+	
+	
+	{
+	"title": "Pac-Man",
+		"description": "Gobble pills, avoid ghosts",
+		"developer": "Denki",
+		"url": "https://denki.co.uk/sky/pacman/app.html",
+		"portal": "https://stb-gaming.github.io/sky/pacman/app.html",
+		"highscores":"https://stb-gaming.github.io/high-scores/games/pacman/",
+		"submit":"https://stb-gaming.github.io/high-scores/submit/score?game=pacman",
+		"brand": "Namco",
+		"splash": "Namco/Pac-Man/Splash.jpg",
+		"gameplay": "Namco/Pac-Man/Play.jpg",
+		"date": "2002-12-13 00:00:00 +0000",
+		"archived": "2023-05-01",
+		"image": "",
+		"menu": "Namco/Pac-Man/menu.png",
+		"list": "",
+		"category": "Arcade"
+	},
+	
+	
+	
+	
+	{
+	"title": "Incredible Hulk",
+		"description": "Hulk returns in a comic-book style action game!",
+		"developer": "Denki",
+		"url": "http://denki.co.uk/sky/hulk2/app.html",
+		"portal": "http://stb-gaming.github.io/sky/hulk2/app.html",
+		"highscores":"https://stb-gaming.github.io/high-scores/games/hulk2/",
+		"submit":"https://stb-gaming.github.io/high-scores/submit/score?game=hulk2",
+		"brand": "Marvel",
+		"splash": "",
+		"gameplay": "Marvel/The Incredible Hulk/Desert1.png",
+		"date": "2003-01-01 00:00:00 +0000",
+		"archived": "2023-09-09",
+		"image": "",
+		"menu": "Marvel/The Incredible Hulk/Menu.png",
+		"list": "",
+		"category": "Action"
+	},
+	
+	
+	
+	
+	{
+	"title": "Caterpillar Crunch",
 		"description": "Guide your hungry caterpillar around the garden!",
 		"developer": "Denki",
 		"url": "https://denki.co.uk/sky/cc/app.html",
+		"portal": "https://stb-gaming.github.io/sky/cc/app.html",
+		"highscores":"https://stb-gaming.github.io/high-scores/games/cc/",
+		"submit":"https://stb-gaming.github.io/high-scores/submit/score?game=cc",
 		"brand": "Denki",
 		"splash": "Denki/Caterpillar Crunch/Splash.jpg",
 		"gameplay": "Denki/Caterpillar Crunch/Play003.jpg",
-		"date": "2003-08-14",
+		"date": "2003-08-14 00:00:00 +0000",
 		"archived": "2023-04-23",
-		"image": null,
-		"menu": null,
+		"image": "",
+		"menu": "Denki/Caterpillar Crunch/menu.png",
+		"list": "",
 		"category": "Puzzle"
 	},
+	
+	
+	
+	
 	{
-		"title": "Hulk",
+	"title": "Hulk",
 		"description": "Help the incredible Hulk fend for himself against the military",
 		"developer": "Denki",
 		"url": "http://denki.co.uk/sky/hulk/app.html",
+		"portal": "http://stb-gaming.github.io/sky/hulk/app.html",
+		"highscores":"https://stb-gaming.github.io/high-scores/games/hulk/",
+		"submit":"https://stb-gaming.github.io/high-scores/submit/score?game=hulk",
 		"brand": "Universal Studios",
 		"splash": "Universal Studios/HULK/Splash.jpg",
 		"gameplay": "Universal Studios/HULK/Forest.jpg",
-		"date": "2003-08-14",
+		"date": "2003-08-14 00:00:00 +0000",
 		"archived": "2023-04-12",
-		"image": null,
-		"menu": null,
+		"image": "",
+		"menu": "Universal Studios/HULK/menu.png",
+		"list": "",
 		"category": "Action"
 	},
+	
+	
+	
+	
 	{
-		"title": "Courage the Cowardly Dog 1",
+	"title": "Courage the Cowardly Dog 1",
 		"description": "Save Eustace and Muriel from the evil Katz!",
 		"developer": "Denki",
-		"url": "http://www.denki.co.uk/sky/courage/app.html",
+		"url": "http://denki.co.uk/sky/courage/app.html",
+		"portal": "http://stb-gaming.github.io/sky/courage/app.html",
+		"highscores":"https://stb-gaming.github.io/high-scores/games/courage/",
+		"submit":"https://stb-gaming.github.io/high-scores/submit/score?game=courage",
 		"brand": "Cartoon Network",
 		"splash": "Cartoon Network/Courage The Cowardly Dog/Courage The Cowardly Dog/Splash.jpg",
 		"gameplay": "Cartoon Network/Courage The Cowardly Dog/Courage The Cowardly Dog/FirstFloor.jpg",
-		"date": "2003-10-23",
+		"date": "2003-10-23 00:00:00 +0000",
 		"archived": "2023-04-12",
-		"image": null,
-		"menu": null,
-		"list": "classics",
+		"image": "",
+		"menu": "Cartoon Network/Courage The Cowardly Dog/Courage The Cowardly Dog/menu.png",
+		"list": "",
 		"category": "Adventure"
 	},
+	
+	
+	
+	
 	{
-		"title": "Courage the Cowardly Dog 2",
-		"description": "Katz is back, and wanting more!",
-		"developer": "Denki",
-		"url": "https://denki.co.uk/sky/courage2/app.html",
-		"brand": "Cartoon Network",
-		"splash": "Cartoon Network/Courage The Cowardly Dog/Courage The Cowardly Dog Episode 2/Splash.bmp",
-		"gameplay": "Cartoon Network/Courage The Cowardly Dog/Courage The Cowardly Dog Episode 2/CourageEp2Play.jpg",
-		"date": null,
-		"archived": "2023-07-14",
-		"image": null,
-		"menu": null,
-		"category": "Adventure"
-	},
-	{
-		"title": "Courage the Cowardly Dog 3",
-		"description": "Eustace and Muriel have been kidnapped again - but not by who you think!",
-		"developer": "Denki",
-		"url": "https://denki.co.uk/sky/courage3/app.html",
-		"brand": "Cartoon Network",
-		"splash": "Cartoon Network/Courage The Cowardly Dog/Courage The Cowardly Dog Episode 3/Splash.jpg",
-		"gameplay": "Cartoon Network/Courage The Cowardly Dog/Courage The Cowardly Dog Episode 3/Screen2.jpg",
-		"date": null,
-		"archived": "2023-07-14",
-		"image": null,
-		"menu": null,
-		"category": "Adventure"
-	},
-	{
-		"title": "Darts",
+	"title": "Darts",
 		"description": "A re-imagining of the classic sport!",
 		"developer": "Denki",
 		"url": "https://denki.co.uk/sky/darts/app.html",
+		"portal": "https://stb-gaming.github.io/sky/darts/app.html",
+		"highscores":"https://stb-gaming.github.io/high-scores/games/darts/",
+		"submit":"https://stb-gaming.github.io/high-scores/submit/score?game=darts",
 		"brand": "Sky Sports",
-		"splash": null,
+		"splash": "",
 		"gameplay": "SKY Sports/Darts/Play02.jpg",
-		"date": "2003-12-04",
+		"date": "2003-12-04 00:00:00 +0000",
 		"archived": "2023-05-04",
 		"image": "SKY Sports/Darts/darts-icon.jpg",
 		"menu": "SKY Sports/Darts/ModeSelect.jpg",
-		"list": "classics",
+		"list": "",
 		"category": "Sports"
 	},
+	
+	
+	
+	
 	{
-		"title": "Duopolis",
+	"title": "Duopolis",
 		"description": "Match the falling blocks and create chains to rack up points",
 		"developer": "Denki",
 		"url": "https://denki.co.uk/sky/duo/app.html",
+		"portal": "https://stb-gaming.github.io/sky/duo/app.html",
+		"highscores":"https://stb-gaming.github.io/high-scores/games/duo/",
+		"submit":"https://stb-gaming.github.io/high-scores/submit/score?game=duo",
 		"brand": "Denki",
 		"splash": "Denki/Duopolis/DuopolisSplash.jpg",
 		"gameplay": "Denki/Duopolis/Playset1P.jpg",
-		"date": "2003-12-04",
+		"date": "2003-12-04 00:00:00 +0000",
 		"archived": "2023-04-22",
-		"image": null,
-		"menu": null,
+		"image": "",
+		"menu": "Denki/Duopolis/menu.png",
+		"list": "",
 		"category": "Puzzle"
 	},
+	
+	
+	
+	
 	{
-		"title": "Looney Tunes: Back in Action",
-		"description": "Bugs and Daffy need your help!",
+	"title": "Beehive Bedlam (Denki)",
+		"description": "Never released!",
 		"developer": "Denki",
-		"url": "https://denki.co.uk/sky/lt/app.html",
-		"brand": "Warner Bros",
-		"splash": "Warner Bros/Looney Tunes/LooneyTunesSplash01.jpg",
-		"gameplay": "Warner Bros/Looney Tunes/Screen3.jpg",
-		"date": "2004-02-12",
-		"archived": "2023-04-21",
-		"image": null,
-		"menu": null,
-		"list": "classics",
-		"category": "Adventure"
-	},
-	{
-		"title": "Letter Box",
-		"description": "Create words in a grid of letters to score!",
-		"developer": "Denki",
-		"url": "https://denki.co.uk/sky/lb/app.html",
+		"url": "https://denki.co.uk/sky/beehive/app.html",
+		"portal": "https://stb-gaming.github.io/sky/beehive/app.html",
+		"highscores":"https://stb-gaming.github.io/high-scores/games/beehive/",
+		"submit":"https://stb-gaming.github.io/high-scores/submit/score?game=beehive",
 		"brand": "SKY Games",
-		"splash": "SKY Games/LetterBox/Splash.jpg",
-		"gameplay": "SKY Games/LetterBox/Play.jpg",
-		"date": "2004-03-18",
-		"archived": "2023-04-23",
-		"image": null,
-		"menu": null,
-		"category": "Word"
+		"splash": "SKY Games/Beehive Bedlam/Beehive_Denki_Splash.jpg",
+		"gameplay": "SKY Games/Beehive Bedlam/Beehive_Denki_Gameplay.jpg",
+		"date": "2004-01-01 00:00:00 +0000",
+		"archived": "2023-07-08",
+		"image": "",
+		"menu": "SKY Games/Beehive Bedlam/menu_denki.png",
+		"list": "",
+		"category": "Puzzle"
 	},
+	
+	
+	
+	
 	{
-		"title": "Tom and Jerry: Mouse Party",
-		"description": "Rescue orphan mice while avoiding cats!",
+	"title": "Courage the Cowardly Dog 2",
+		"description": "Katz is back, and wanting more!",
 		"developer": "Denki",
-		"url": "http://denki.co.uk/sky/tj/app.html",
+		"url": "https://denki.co.uk/sky/courage2/app.html",
+		"portal": "https://stb-gaming.github.io/sky/courage2/app.html",
+		"highscores":"https://stb-gaming.github.io/high-scores/games/courage2/",
+		"submit":"https://stb-gaming.github.io/high-scores/submit/score?game=courage2",
 		"brand": "Cartoon Network",
-		"splash": "Cartoon Network/Tom and Jerry/Tom and Jerry/Splash.jpg",
-		"gameplay": "Cartoon Network/Tom and Jerry/Tom and Jerry/Kitchen.jpg",
-		"date": "2004-05-06",
-		"archived": "2023-04-12",
-		"image": null,
-		"menu": null,
-		"list": "classics",
-		"category": "Action"
-	},
-	{
-		"title": "Codename Kids Next Door",
-		"description": "Stop the evil Stickybeard in his tracks!",
-		"developer": "Denki",
-		"url": "https://denki.co.uk/sky/cknd/app.html",
-		"brand": "Cartoon Network",
-		"splash": "Cartoon Network/Codename Kids Next Door/Codename Kids Next Door/Splash.jpg",
-		"gameplay": "Cartoon Network/Codename Kids Next Door/Codename Kids Next Door/Play003Hold.jpg",
-		"date": "2004-07-29",
-		"archived": "2023-04-15",
-		"image": null,
-		"menu": null,
+		"splash": "Cartoon Network/Courage The Cowardly Dog/Courage The Cowardly Dog Episode 2/Splash.bmp",
+		"gameplay": "Cartoon Network/Courage The Cowardly Dog/Courage The Cowardly Dog Episode 2/CourageEp2Play.jpg",
+		"date": "2004-07-08 00:00:00 +0000",
+		"archived": "2023-07-14",
+		"image": "",
+		"menu": "",
+		"list": "",
 		"category": "Adventure"
 	},
+	
+	
+	
+	
 	{
-		"title": "Codename Kids Next Door Episode 2",
-		"description": "Numbuh Four takes to the pirates head-on!",
+	"title": "Courage the Cowardly Dog 3",
+		"description": "Eustace and Muriel have been kidnapped again - but not by who you think!",
 		"developer": "Denki",
-		"url": "https://denki.co.uk/sky/cknd_2/app.html",
+		"url": "https://denki.co.uk/sky/courage3/app.html",
+		"portal": "https://stb-gaming.github.io/sky/courage3/app.html",
+		"highscores":"https://stb-gaming.github.io/high-scores/games/courage3/",
+		"submit":"https://stb-gaming.github.io/high-scores/submit/score?game=courage3",
 		"brand": "Cartoon Network",
-		"splash": "Cartoon Network/Codename Kids Next Door/Codename Kids Next Door Episode 2/Splash.jpg",
-		"gameplay": "Cartoon Network/Codename Kids Next Door/Codename Kids Next Door Episode 2/Screen02.jpg",
-		"date": "2005-01-06",
-		"archived": "2023-08-19",
-		"image": null,
-		"menu": null,
+		"splash": "Cartoon Network/Courage The Cowardly Dog/Courage The Cowardly Dog Episode 3/Splash.jpg",
+		"gameplay": "Cartoon Network/Courage The Cowardly Dog/Courage The Cowardly Dog Episode 3/Screen2.jpg",
+		"date": "2004-09-09 00:00:00 +0000",
+		"archived": "2023-07-14",
+		"image": "",
+		"menu": "Cartoon Network/Courage The Cowardly Dog/Courage The Cowardly Dog Episode 3/menu.png",
+		"list": "",
 		"category": "Adventure"
 	},
+	
+	
+	
+	
 	{
-		"title": "Codename Kids Next Door Episode 3",
-		"description": "Sink the Sweet Revenge III once and for all!",
-		"developer": "Denki",
-		"url": "https://denki.co.uk/sky/cknd_3/app.html",
-		"brand": "Cartoon Network",
-		"splash": "Cartoon Network/Codename Kids Next Door/Codename Kids Next Door Episode 3/Splash.jpg",
-		"gameplay": "Cartoon Network/Codename Kids Next Door/Codename Kids Next Door Episode 3/screenshot_04.jpg",
-		"date": "2005-08-04",
-		"archived": "2023-08-19",
-		"image": null,
-		"menu": null,
-		"category": "Adventure"
-	},
-	{
-		"title": "Scooby-Doo: Eerie Isle",
-		"description": "Help the Mystery gang track down the ghosts of Eerie Isle!",
-		"developer": "Denki",
-		"url": "https://denki.co.uk/sky/sd/app.html",
-		"brand": "Cartoon Network",
-		"splash": "Cartoon Network/Scooby-Doo Where Are You/Scooby-Doo Where Are You/Splash.jpg",
-		"gameplay": "Cartoon Network/Scooby-Doo Where Are You/Scooby-Doo Where Are You/Play - Downstairs - Scooby Snack.jpg",
-		"date": "2004-09-16",
-		"archived": "2023-04-22",
-		"image": null,
-		"menu": null,
-		"list": "classics",
-		"category": "Adventure"
-	},
-	{
-		"title": "Thunderbirds: Flashpoint Earth",
-		"description": "International Rescue is under high demand!",
-		"developer": "Denki",
-		"url": "https://denki.co.uk/sky/tbirds/app.html",
-		"brand": "Universal Studios",
-		"splash": "Universal Studios/Thunderbirds/Splash.jpg",
-		"gameplay": "Universal Studios/Thunderbirds/PlaySnow.jpg",
-		"date": "2004-10-14",
-		"archived": "2023-04-15",
-		"image": null,
-		"menu": null,
-		"category": "Action"
-	},
-	{
-		"title": "Genie's Cave",
+	"title": "Genie's Cave",
 		"description": "Solve the genie's cunning puzzles to uncover secrets!",
 		"developer": "Denki",
 		"url": "https://denki.co.uk/sky/gc/app.html",
+		"portal": "https://stb-gaming.github.io/sky/gc/app.html",
+		"highscores":"https://stb-gaming.github.io/high-scores/games/gc/",
+		"submit":"https://stb-gaming.github.io/high-scores/submit/score?game=gc",
 		"brand": "SKY Games",
 		"splash": "SKY Games/Genie's Cave/GCSplash.jpg",
 		"gameplay": "SKY Games/Genie's Cave/GCPlay01.jpg",
-		"date": "2004-12-02",
+		"date": "2004-12-02 00:00:00 +0000",
 		"archived": "2023-04-29",
-		"image": null,
-		"menu": null,
-		"list": "family",
+		"image": "",
+		"menu": "",
+		"list": "",
 		"category": "Puzzle"
 	},
+	
+	
+	
+	
 	{
-		"title": "Tetris",
-		"description": "A fan favourite!",
+	"title": "Jumble Fever: Cartoon Network",
+		"description": "Fruity addicting fun!",
 		"developer": "Denki",
-		"url": "http://denki.co.uk/sky/tetris/app.html",
-		"brand": "The Tetris Company",
-		"splash": "The Tetris Company/Tetris/Splash.jpg",
-		"gameplay": "The Tetris Company/Tetris/Play04.jpg",
-		"date": "2004-12-16",
-		"archived": "2023-04-12",
-		"image": null,
-		"menu": null,
+		"url": "https://denki.co.uk/sky/jf_cn/app.html",
+		"portal": "https://stb-gaming.github.io/sky/jf_cn/app.html",
+		"highscores":"https://stb-gaming.github.io/high-scores/games/jf_cn/",
+		"submit":"https://stb-gaming.github.io/high-scores/submit/score?game=jf_cn",
+		"brand": "SKY Games",
+		"splash": "",
+		"gameplay": "",
+		"date": "2023-10-22 08:36:35 +0000",
+		"archived": "2023-10-14",
+		"image": "",
+		"menu": "",
+		"list": "",
 		"category": "Puzzle"
 	},
+	
+	
+	
+	
 	{
-		"title": "Boggle",
+	"title": "Kurakku",
+		"description": "",
+		"developer": "",
+		"url": "https://stb-gaming.github.io/sky/kurakku/app.html",
+		"portal": "https://stb-gaming.github.io/sky/kurakku/app.html",
+		"highscores":"https://stb-gaming.github.io/high-scores/games/kurakku/",
+		"submit":"https://stb-gaming.github.io/high-scores/submit/score?game=kurakku",
+		"brand": "",
+		"splash": "",
+		"gameplay": "",
+		"date": "2023-10-22 08:36:35 +0000",
+		"archived": "",
+		"image": "",
+		"menu": "",
+		"list": "",
+		"category": ""
+	},
+	
+	
+	
+	
+	{
+	"title": "Looney Tunes: Back in Action",
+		"description": "Bugs and Daffy need your help!",
+		"developer": "Denki",
+		"url": "https://denki.co.uk/sky/lt/app.html",
+		"portal": "https://stb-gaming.github.io/sky/lt/app.html",
+		"highscores":"https://stb-gaming.github.io/high-scores/games/lt/",
+		"submit":"https://stb-gaming.github.io/high-scores/submit/score?game=lt",
+		"brand": "Warner Bros",
+		"splash": "Warner Bros/Looney Tunes/LooneyTunesSplash01.jpg",
+		"gameplay": "Warner Bros/Looney Tunes/Screen3.jpg",
+		"date": "2004-02-12 00:00:00 +0000",
+		"archived": "2023-04-21",
+		"image": "",
+		"menu": "",
+		"list": "",
+		"category": "Adventure"
+	},
+	
+	
+	
+	
+	{
+	"title": "Letter Box",
+		"description": "Create words in a grid of letters to score!",
+		"developer": "Denki",
+		"url": "https://denki.co.uk/sky/lb/app.html",
+		"portal": "https://stb-gaming.github.io/sky/lb/app.html",
+		"highscores":"https://stb-gaming.github.io/high-scores/games/lb/",
+		"submit":"https://stb-gaming.github.io/high-scores/submit/score?game=lb",
+		"brand": "SKY Games",
+		"splash": "SKY Games/LetterBox/Splash.jpg",
+		"gameplay": "SKY Games/LetterBox/Play.jpg",
+		"date": "2004-03-18 00:00:00 +0000",
+		"archived": "2023-04-23",
+		"image": "",
+		"menu": "",
+		"list": "",
+		"category": "Word"
+	},
+	
+	
+	
+	
+	{
+	"title": "Tom and Jerry: Mouse Party",
+		"description": "Rescue orphan mice while avoiding cats!",
+		"developer": "Denki",
+		"url": "http://denki.co.uk/sky/tj/app.html",
+		"portal": "http://stb-gaming.github.io/sky/tj/app.html",
+		"highscores":"https://stb-gaming.github.io/high-scores/games/tj/",
+		"submit":"https://stb-gaming.github.io/high-scores/submit/score?game=tj",
+		"brand": "Cartoon Network",
+		"splash": "Cartoon Network/Tom and Jerry/Tom and Jerry/Splash.jpg",
+		"gameplay": "Cartoon Network/Tom and Jerry/Tom and Jerry/Kitchen.jpg",
+		"date": "2004-05-06 00:00:00 +0000",
+		"archived": "2023-04-12",
+		"image": "",
+		"menu": "",
+		"list": "",
+		"category": "Action"
+	},
+	
+	
+	
+	
+	{
+	"title": "Looney Tunes: Back in Action 2",
+		"description": "ACME strikes back!",
+		"developer": "Denki",
+		"url": "https://denki.co.uk/sky/lt2/app.html",
+		"portal": "https://stb-gaming.github.io/sky/lt2/app.html",
+		"highscores":"https://stb-gaming.github.io/high-scores/games/lt2/",
+		"submit":"https://stb-gaming.github.io/high-scores/submit/score?game=lt2",
+		"brand": "Warner Bros",
+		"splash": "Warner Bros/Looney Tunes Episode 2/Front End.jpg",
+		"gameplay": "Warner Bros/Looney Tunes Episode 2/Screen2.jpg",
+		"date": "2004-07-15 00:00:00 +0000",
+		"archived": "2023-09-16",
+		"image": "",
+		"menu": "",
+		"list": "",
+		"category": "Adventure"
+	},
+	
+	
+	
+	
+	{
+	"title": "Codename Kids Next Door",
+		"description": "Stop the evil Stickybeard in his tracks!",
+		"developer": "Denki",
+		"url": "https://denki.co.uk/sky/cknd/app.html",
+		"portal": "https://stb-gaming.github.io/sky/cknd/app.html",
+		"highscores":"https://stb-gaming.github.io/high-scores/games/cknd/",
+		"submit":"https://stb-gaming.github.io/high-scores/submit/score?game=cknd",
+		"brand": "Cartoon Network",
+		"splash": "Cartoon Network/Codename Kids Next Door/Codename Kids Next Door/Splash.jpg",
+		"gameplay": "Cartoon Network/Codename Kids Next Door/Codename Kids Next Door/Play003Hold.jpg",
+		"date": "2004-07-29 00:00:00 +0000",
+		"archived": "2023-04-15",
+		"image": "",
+		"menu": "",
+		"list": "",
+		"category": "Adventure"
+	},
+	
+	
+	
+	
+	{
+	"title": "Scooby-Doo: Eerie Isle",
+		"description": "Help the Mystery gang track down the ghosts of Eerie Isle!",
+		"developer": "Denki",
+		"url": "https://denki.co.uk/sky/sd/app.html",
+		"portal": "https://stb-gaming.github.io/sky/sd/app.html",
+		"highscores":"https://stb-gaming.github.io/high-scores/games/sd/",
+		"submit":"https://stb-gaming.github.io/high-scores/submit/score?game=sd",
+		"brand": "Cartoon Network",
+		"splash": "Cartoon Network/Scooby-Doo Where Are You/Scooby-Doo Where Are You/Splash.jpg",
+		"gameplay": "Cartoon Network/Scooby-Doo Where Are You/Scooby-Doo Where Are You/Play - Downstairs - Scooby Snack.jpg",
+		"date": "2004-09-16 00:00:00 +0000",
+		"archived": "2023-04-22",
+		"image": "",
+		"menu": "",
+		"list": "",
+		"category": "Adventure"
+	},
+	
+	
+	
+	
+	{
+	"title": "Thunderbirds: Flashpoint Earth",
+		"description": "International Rescue is under high demand!",
+		"developer": "Denki",
+		"url": "https://denki.co.uk/sky/tbirds/app.html",
+		"portal": "https://stb-gaming.github.io/sky/tbirds/app.html",
+		"highscores":"https://stb-gaming.github.io/high-scores/games/tbirds/",
+		"submit":"https://stb-gaming.github.io/high-scores/submit/score?game=tbirds",
+		"brand": "Universal Studios",
+		"splash": "Universal Studios/Thunderbirds/Splash.jpg",
+		"gameplay": "Universal Studios/Thunderbirds/PlaySnow.jpg",
+		"date": "2004-10-14 00:00:00 +0000",
+		"archived": "2023-04-15",
+		"image": "",
+		"menu": "",
+		"list": "",
+		"category": "Action"
+	},
+	
+	
+	
+	
+	{
+	"title": "Codename Kids Next Door Episode 2",
+		"description": "Numbuh Four takes to the pirates head-on!",
+		"developer": "Denki",
+		"url": "https://denki.co.uk/sky/cknd_2/app.html",
+		"portal": "https://stb-gaming.github.io/sky/cknd_2/app.html",
+		"highscores":"https://stb-gaming.github.io/high-scores/games/cknd_2/",
+		"submit":"https://stb-gaming.github.io/high-scores/submit/score?game=cknd_2",
+		"brand": "Cartoon Network",
+		"splash": "Cartoon Network/Codename Kids Next Door/Codename Kids Next Door Episode 2/Splash.jpg",
+		"gameplay": "Cartoon Network/Codename Kids Next Door/Codename Kids Next Door Episode 2/Screen02.jpg",
+		"date": "2005-01-06 00:00:00 +0000",
+		"archived": "2023-08-19",
+		"image": "",
+		"menu": "",
+		"list": "",
+		"category": "Adventure"
+	},
+	
+	
+	
+	
+	{
+	"title": "Boggle",
 		"description": "The classic pen and paper word game, now on Sky!",
 		"developer": "Denki",
 		"url": "https://denki.co.uk/sky/boggle/app.html",
+		"portal": "https://stb-gaming.github.io/sky/boggle/app.html",
+		"highscores":"https://stb-gaming.github.io/high-scores/games/boggle/",
+		"submit":"https://stb-gaming.github.io/high-scores/submit/score?game=boggle",
 		"brand": "Hasbro",
 		"splash": "Hasbro/Boggle/Splash1.jpg",
 		"gameplay": "Hasbro/Boggle/Boggle1.jpg",
-		"date": "2005-02-17",
+		"date": "2005-02-17 00:00:00 +0000",
 		"archived": "2023-04-29",
-		"image": null,
-		"menu": null,
-		"list": "family",
+		"image": "",
+		"menu": "",
+		"list": "",
 		"category": "Word"
 	},
+	
+	
+	
+	
 	{
-		"title": "Shrek Episode 1",
+	"title": "Tom and Jerry: Dynamice 2",
+		"description": "Bombs away!",
+		"developer": "Denki",
+		"url": "https://denki.co.uk/sky/dynamice2/app.html",
+		"portal": "https://stb-gaming.github.io/sky/dynamice2/app.html",
+		"highscores":"https://stb-gaming.github.io/high-scores/games/dynamice2/",
+		"submit":"https://stb-gaming.github.io/high-scores/submit/score?game=dynamice2",
+		"brand": "Cartoon Network",
+		"splash": "Cartoon Network/Tom and Jerry/Tom and Jerry Dynamice 2/Splash.jpg",
+		"gameplay": "Cartoon Network/Tom and Jerry/Tom and Jerry Dynamice 2/Play_1.jpg",
+		"date": "2023-10-22 08:36:35 +0000",
+		"archived": "2023-10-07",
+		"image": "",
+		"menu": "Cartoon Network/Tom and Jerry/Tom and Jerry Dynamice 2/ModeSelect.jpg",
+		"list": "",
+		"category": "Maze"
+	},
+	
+	
+	
+	
+	{
+	"title": "Jumble Fever: Tom and Jerry",
+		"description": "Fruity addicting fun!",
+		"developer": "Denki",
+		"url": "https://denki.co.uk/sky/jf_tj/app.html",
+		"portal": "https://stb-gaming.github.io/sky/jf_tj/app.html",
+		"highscores":"https://stb-gaming.github.io/high-scores/games/jf_tj/",
+		"submit":"https://stb-gaming.github.io/high-scores/submit/score?game=jf_tj",
+		"brand": "SKY Games",
+		"splash": "",
+		"gameplay": "",
+		"date": "2023-10-22 08:36:35 +0000",
+		"archived": "2023-10-14",
+		"image": "",
+		"menu": "",
+		"list": "",
+		"category": "Puzzle"
+	},
+	
+	
+	
+	
+	{
+	"title": "Tetris",
+		"description": "A fan favourite!",
+		"developer": "Denki",
+		"url": "http://denki.co.uk/sky/tetris/app.html",
+		"portal": "http://stb-gaming.github.io/sky/tetris/app.html",
+		"highscores":"https://stb-gaming.github.io/high-scores/games/tetris/",
+		"submit":"https://stb-gaming.github.io/high-scores/submit/score?game=tetris",
+		"brand": "The Tetris Company",
+		"splash": "The Tetris Company/Tetris/Splash.jpg",
+		"gameplay": "The Tetris Company/Tetris/Play04.jpg",
+		"date": "2004-12-16 00:00:00 +0000",
+		"archived": "2023-04-12",
+		"image": "",
+		"menu": "",
+		"list": "",
+		"category": "Puzzle"
+	},
+	
+	
+	
+	
+	{
+	"title": "Shrek Episode 1",
 		"description": "Shrek's pals need help!",
 		"developer": "Denki",
 		"url": "http://denki.co.uk/sky/shrek/app.html",
+		"portal": "http://stb-gaming.github.io/sky/shrek/app.html",
+		"highscores":"https://stb-gaming.github.io/high-scores/games/shrek/",
+		"submit":"https://stb-gaming.github.io/high-scores/submit/score?game=shrek",
 		"brand": "Dreamworks",
 		"splash": "Dreamworks/Shrek/Shrek/Splash.jpg",
 		"gameplay": "Dreamworks/Shrek/Shrek/Forest02.jpg",
-		"date": "2005-02-17",
+		"date": "2005-02-17 00:00:00 +0000",
 		"archived": "2023-04-12",
-		"image": null,
-		"menu": null,
-		"list": "family",
+		"image": "",
+		"menu": "",
+		"list": "",
 		"category": "Adventure"
 	},
+	
+	
+	
+	
 	{
-		"title": "Dexter vs. Mandark",
+	"title": "Dexter vs. Mandark",
 		"description": "A battle of wits between two evil geniuses!",
 		"developer": "Denki",
 		"url": "https://denki.co.uk/sky/dl/app.html",
+		"portal": "https://stb-gaming.github.io/sky/dl/app.html",
+		"highscores":"https://stb-gaming.github.io/high-scores/games/dl/",
+		"submit":"https://stb-gaming.github.io/high-scores/submit/score?game=dl",
 		"brand": "Cartoon Network",
 		"splash": "Cartoon Network/Dexter's Laboratory/Dexter's Laboratory/DextersLabSplash.jpg",
 		"gameplay": "Cartoon Network/Dexter's Laboratory/Dexter's Laboratory/DextersLabPlay08.jpg",
-		"date": "2005-03-24",
+		"date": "2005-03-24 00:00:00 +0000",
 		"archived": "2023-04-20",
-		"image": null,
-		"menu": null,
+		"image": "",
+		"menu": "",
+		"list": "",
 		"category": "Action"
 	},
+	
+	
+	
+	
 	{
-		"title": "Foster's Home for Imaginary Friends",
+	"title": "Foster's Home for Imaginary Friends",
 		"description": "Reset clocks to fix the timeline",
 		"developer": "Denki",
 		"url": "https://denki.co.uk/sky/fosters/app.html",
+		"portal": "https://stb-gaming.github.io/sky/fosters/app.html",
+		"highscores":"https://stb-gaming.github.io/high-scores/games/fosters/",
+		"submit":"https://stb-gaming.github.io/high-scores/submit/score?game=fosters",
 		"brand": "Cartoon Network",
 		"splash": "Cartoon Network/Foster's Home For Imaginary Friends/Foster's Home For Imaginary Friends/Splash.jpg",
 		"gameplay": "Cartoon Network/Foster's Home For Imaginary Friends/Foster's Home For Imaginary Friends/PlayClockRoom.jpg",
-		"date": "2005-04-14",
+		"date": "2005-04-14 00:00:00 +0000",
 		"archived": "2023-04-29",
-		"image": null,
-		"menu": null,
+		"image": "",
+		"menu": "",
+		"list": "",
 		"category": "Adventure"
 	},
+	
+	
+	
+	
 	{
-		"title": "Foster's: Bad Bloo",
-		"description": "More timeline chaos!",
+	"title": "Looney Tunes: Back in Action 3",
+		"description": "Oh no! Bugs has been kidnapped by ACME!",
 		"developer": "Denki",
-		"url": "https://denki.co.uk/sky/fosters2/app.html",
-		"brand": "Cartoon Network",
-		"splash": "Cartoon Network/Foster's Home For Imaginary Friends/Foster's Home For Imaginary Friends Episode 2/Splash.bmp",
-		"gameplay": "Cartoon Network/Foster's Home For Imaginary Friends/Foster's Home For Imaginary Friends Episode 2/Play003Garden.jpg",
-		"date": "2005-11-10",
-		"archived": "2023-08-25",
-		"image": null,
-		"menu": null,
+		"url": "https://denki.co.uk/sky/lt3/app.html",
+		"portal": "https://stb-gaming.github.io/sky/lt3/app.html",
+		"highscores":"https://stb-gaming.github.io/high-scores/games/lt3/",
+		"submit":"https://stb-gaming.github.io/high-scores/submit/score?game=lt3",
+		"brand": "Warner Bros",
+		"splash": "Warner Bros/Looney Tunes Episode 3/splash.jpg",
+		"gameplay": "Warner Bros/Looney Tunes Episode 3/screen_shot_04.jpg",
+		"date": "2005-05-06 00:00:00 +0000",
+		"archived": "2023-09-16",
+		"image": "",
+		"menu": "",
+		"list": "",
 		"category": "Adventure"
 	},
+	
+	
+	
+	
 	{
-		"title": "Jumble Fever",
+	"title": "Tom and Jerry Episode 3",
+		"description": "",
+		"developer": "Denki",
+		"url": "http://denki.co.uk/sky/tj3/app.html",
+		"portal": "http://stb-gaming.github.io/sky/tj3/app.html",
+		"highscores":"https://stb-gaming.github.io/high-scores/games/tj3/",
+		"submit":"https://stb-gaming.github.io/high-scores/submit/score?game=tj3",
+		"brand": "Cartoon Network",
+		"splash": "",
+		"gameplay": "Cartoon Network/Tom and Jerry/Tom and Jerry Episode 3/Play002Outside.jpg",
+		"date": "2005-05-12 00:00:00 +0000",
+		"archived": "2023-09-30",
+		"image": "",
+		"menu": "Cartoon Network/Tom and Jerry/Tom and Jerry Episode 3/ModeSelect.jpg",
+		"list": "",
+		"category": ""
+	},
+	
+	
+	
+	
+	{
+	"title": "Jumble Fever",
 		"description": "Fruity addicting fun!",
 		"developer": "Denki",
 		"url": "https://denki.co.uk/sky/jf/app.html",
+		"portal": "https://stb-gaming.github.io/sky/jf/app.html",
+		"highscores":"https://stb-gaming.github.io/high-scores/games/jf/",
+		"submit":"https://stb-gaming.github.io/high-scores/submit/score?game=jf",
 		"brand": "SKY Games",
 		"splash": "SKY Games/Jumble Fever/Jumble Fever/splash.jpg",
 		"gameplay": "SKY Games/Jumble Fever/Jumble Fever/PlaySet2.jpg",
-		"date": "2005-06-09",
+		"date": "2005-06-09 00:00:00 +0000",
 		"archived": "2023-04-26",
-		"image": null,
-		"menu": null,
-		"list": "classics",
+		"image": "",
+		"menu": "",
+		"list": "",
 		"category": "Puzzle"
 	},
+	
+	
+	
+	
 	{
-		"title": "Shrek Episode 2",
+	"title": "Shrek Episode 2",
 		"description": "Prince Charming gone bad!",
 		"developer": "Denki",
 		"url": "https://denki.co.uk/sky/shrek2/app.html",
+		"portal": "https://stb-gaming.github.io/sky/shrek2/app.html",
+		"highscores":"https://stb-gaming.github.io/high-scores/games/shrek2/",
+		"submit":"https://stb-gaming.github.io/high-scores/submit/score?game=shrek2",
 		"brand": "Dreamworks",
 		"splash": "Dreamworks/Shrek/Shrek Episode 2/Splash.jpg",
 		"gameplay": "Dreamworks/Shrek/Shrek Episode 2/Swamp_night.jpg",
-		"date": "2005-07-14",
+		"date": "2005-07-14 00:00:00 +0000",
 		"archived": "2023-05-13",
-		"image": null,
-		"menu": null,
-		"list": "classics",
+		"image": "",
+		"menu": "",
+		"list": "",
 		"category": "Adventure"
 	},
+	
+	
+	
+	
 	{
-		"title": "Ed, Edd, n Eddy 1",
+	"title": "Codename Kids Next Door Episode 3",
+		"description": "Sink the Sweet Revenge III once and for all!",
+		"developer": "Denki",
+		"url": "https://denki.co.uk/sky/cknd_3/app.html",
+		"portal": "https://stb-gaming.github.io/sky/cknd_3/app.html",
+		"highscores":"https://stb-gaming.github.io/high-scores/games/cknd_3/",
+		"submit":"https://stb-gaming.github.io/high-scores/submit/score?game=cknd_3",
+		"brand": "Cartoon Network",
+		"splash": "Cartoon Network/Codename Kids Next Door/Codename Kids Next Door Episode 3/Splash.jpg",
+		"gameplay": "Cartoon Network/Codename Kids Next Door/Codename Kids Next Door Episode 3/screenshot_04.jpg",
+		"date": "2005-08-04 00:00:00 +0000",
+		"archived": "2023-08-19",
+		"image": "",
+		"menu": "",
+		"list": "",
+		"category": "Adventure"
+	},
+	
+	
+	
+	
+	{
+	"title": "Ed, Edd, n Eddy 1",
 		"description": "Sibling rivalry with a monstrous twist!",
 		"developer": "Denki",
 		"url": "http://denki.co.uk/sky/eddy/app.html",
+		"portal": "http://stb-gaming.github.io/sky/eddy/app.html",
+		"highscores":"https://stb-gaming.github.io/high-scores/games/eddy/",
+		"submit":"https://stb-gaming.github.io/high-scores/submit/score?game=eddy",
 		"brand": "Cartoon Network",
 		"splash": "Cartoon Network/Ed, Edd 'n' Eddy/Ed, Edd 'n' Eddy/Splash.jpg",
 		"gameplay": "Cartoon Network/Ed, Edd 'n' Eddy/Ed, Edd 'n' Eddy/Play04.jpg",
-		"date": "2005-08-11",
+		"date": "2005-08-11 00:00:00 +0000",
 		"archived": "2023-04-12",
-		"image": null,
-		"menu": null,
+		"image": "",
+		"menu": "",
+		"list": "",
 		"category": "Action"
 	},
+	
+	
+	
+	
 	{
-		"title": "Star Trek: STRANDED",
+	"title": "Scooby-Doo: Mummy Madness",
+		"description": "Help Mystery Inc tackle a haunted museum!",
+		"developer": "Denki",
+		"url": "https://denki.co.uk/sky/sd2/app.html",
+		"portal": "https://stb-gaming.github.io/sky/sd2/app.html",
+		"highscores":"https://stb-gaming.github.io/high-scores/games/sd2/",
+		"submit":"https://stb-gaming.github.io/high-scores/submit/score?game=sd2",
+		"brand": "Cartoon Network",
+		"splash": "Cartoon Network/Scooby-Doo Where Are You/Scooby-Doo Where Are You Episode 2/Splash.jpg",
+		"gameplay": "Cartoon Network/Scooby-Doo Where Are You/Scooby-Doo Where Are You Episode 2/PlayObservatory.jpg",
+		"date": "2005-09-08 00:00:00 +0000",
+		"archived": "2023-09-16",
+		"image": "",
+		"menu": "",
+		"list": "",
+		"category": "Adventure"
+	},
+	
+	
+	
+	
+	{
+	"title": "Star Trek: STRANDED",
 		"description": "Return to the Enterprise before it's too late!",
 		"developer": "Denki",
 		"url": "https://denki.co.uk/sky/st/app.html",
+		"portal": "https://stb-gaming.github.io/sky/st/app.html",
+		"highscores":"https://stb-gaming.github.io/high-scores/games/st/",
+		"submit":"https://stb-gaming.github.io/high-scores/submit/score?game=st",
 		"brand": "Paramount",
 		"splash": "Paramount/Star Trek - The Next Generation/Splash.jpg",
 		"gameplay": "Paramount/Star Trek - The Next Generation/Play03Complex.jpg",
-		"date": "2005-09-08",
+		"date": "2005-09-08 00:00:00 +0000",
 		"archived": "2023-04-26",
-		"image": null,
-		"menu": null,
+		"image": "",
+		"menu": "",
+		"list": "",
 		"category": "Adventure"
 	},
+	
+	
+	
+	
 	{
-		"title": "Wallace and Gromit",
+	"title": "Wallace and Gromit",
 		"description": "ANTI-PESTO's biggest job yet!",
 		"developer": "Denki",
 		"url": "https://denki.co.uk/sky/wg/app.html",
+		"portal": "https://stb-gaming.github.io/sky/wg/app.html",
+		"highscores":"https://stb-gaming.github.io/high-scores/games/wg/",
+		"submit":"https://stb-gaming.github.io/high-scores/submit/score?game=wg",
 		"brand": "Aardman",
 		"splash": "Aardman/Wallace & Gromit - The Curse of the Were-Rabbit/splash.bmp",
 		"gameplay": "Aardman/Wallace & Gromit - The Curse of the Were-Rabbit/013 Stun-O-Matic.jpg",
-		"date": "2005-10-06",
+		"date": "2005-10-06 00:00:00 +0000",
 		"archived": "2023-04-30",
-		"image": null,
-		"menu": null,
+		"image": "",
+		"menu": "",
+		"list": "",
 		"category": "Adventure"
 	},
+	
+	
+	
+	
 	{
-		"title": "Dexter: Mandark Strikes Back",
+	"title": "Dexter: Mandark Strikes Back",
 		"description": "Dexter's feud with Mandark continues!",
 		"developer": "Denki",
 		"url": "https://denki.co.uk/sky/dl2/app.html",
+		"portal": "https://stb-gaming.github.io/sky/dl2/app.html",
+		"highscores":"https://stb-gaming.github.io/high-scores/games/dl2/",
+		"submit":"https://stb-gaming.github.io/high-scores/submit/score?game=dl2",
 		"brand": "Cartoon Network",
 		"splash": "Cartoon Network/Dexter's Laboratory/Dexter's Laboratory Episode 2/Splash.jpg",
 		"gameplay": "Cartoon Network/Dexter's Laboratory/Dexter's Laboratory Episode 2/Screenshot01.jpg",
-		"date": "2005-10-13",
+		"date": "2005-10-13 00:00:00 +0000",
 		"archived": "2023-08-06",
-		"image": null,
-		"menu": null,
+		"image": "",
+		"menu": "",
+		"list": "",
 		"category": "Action"
 	},
+	
+	
+	
+	
 	{
-		"title": "Shrek Episode 3",
+	"title": "Foster's: Bad Bloo",
+		"description": "More timeline chaos!",
+		"developer": "Denki",
+		"url": "https://denki.co.uk/sky/fosters2/app.html",
+		"portal": "https://stb-gaming.github.io/sky/fosters2/app.html",
+		"highscores":"https://stb-gaming.github.io/high-scores/games/fosters2/",
+		"submit":"https://stb-gaming.github.io/high-scores/submit/score?game=fosters2",
+		"brand": "Cartoon Network",
+		"splash": "Cartoon Network/Foster's Home For Imaginary Friends/Foster's Home For Imaginary Friends Episode 2/Splash.bmp",
+		"gameplay": "Cartoon Network/Foster's Home For Imaginary Friends/Foster's Home For Imaginary Friends Episode 2/Play003Garden.jpg",
+		"date": "2005-11-10 00:00:00 +0000",
+		"archived": "2023-08-25",
+		"image": "",
+		"menu": "",
+		"list": "",
+		"category": "Adventure"
+	},
+	
+	
+	
+	
+	{
+	"title": "Scooby-Doo: Mystery Mine",
+		"description": "Scooby's gang is tasked with navigating the Mysterious Manor!",
+		"developer": "Denki",
+		"url": "https://denki.co.uk/sky/sd3/app.html",
+		"portal": "https://stb-gaming.github.io/sky/sd3/app.html",
+		"highscores":"https://stb-gaming.github.io/high-scores/games/sd3/",
+		"submit":"https://stb-gaming.github.io/high-scores/submit/score?game=sd3",
+		"brand": "Cartoon Network",
+		"splash": "Cartoon Network/Scooby-Doo Where Are You/Scooby-Doo Where Are You Episode 3/Splash.jpg",
+		"gameplay": "Cartoon Network/Scooby-Doo Where Are You/Scooby-Doo Where Are You Episode 3/Play03.jpg",
+		"date": "2005-12-15 00:00:00 +0000",
+		"archived": "2023-09-16",
+		"image": "",
+		"menu": "",
+		"list": "",
+		"category": "Adventure"
+	},
+	
+	
+	
+	
+	{
+	"title": "Shrek Episode 3",
 		"description": "Help Fiona rescue her beloved Shrek and Donkey!",
 		"developer": "Denki",
 		"url": "https://denki.co.uk/sky/shrek3/app.html",
+		"portal": "https://stb-gaming.github.io/sky/shrek3/app.html",
+		"highscores":"https://stb-gaming.github.io/high-scores/games/shrek3/",
+		"submit":"https://stb-gaming.github.io/high-scores/submit/score?game=shrek3",
 		"brand": "Dreamworks",
 		"splash": "Dreamworks/Shrek/Shrek Episode 3/Splash.jpg",
 		"gameplay": "Dreamworks/Shrek/Shrek Episode 3/Screen03.jpg",
-		"date": "2005-12-15",
+		"date": "2005-12-15 00:00:00 +0000",
 		"archived": "2023-05-13",
-		"image": null,
-		"menu": null,
+		"image": "",
+		"menu": "",
+		"list": "",
 		"category": "Adventure"
 	},
+	
+	
+	
+	
 	{
-		"title": "Word Crunch Deluxe",
+	"title": "Word Crunch Deluxe",
 		"description": "Put your verbal dexterity to the test!",
 		"developer": "Denki",
 		"url": "https://denki.co.uk/sky/wcd/app.html",
+		"portal": "https://stb-gaming.github.io/sky/wcd/app.html",
+		"highscores":"https://stb-gaming.github.io/high-scores/games/wcd/",
+		"submit":"https://stb-gaming.github.io/high-scores/submit/score?game=wcd",
 		"brand": "SKY Games",
 		"splash": "SKY Games/Word Crunch/Word Crunch Deluxe/Splash.jpg",
 		"gameplay": "SKY Games/Word Crunch/Word Crunch Deluxe/WCDPlay002.jpg",
-		"date": "2005-12-15",
+		"date": "2005-12-15 00:00:00 +0000",
 		"archived": "2023-04-20",
-		"image": null,
-		"menu": null,
+		"image": "",
+		"menu": "",
+		"list": "",
 		"category": "Word"
 	},
+	
+	
+	
+	
 	{
-		"title": "SpongeBob SquarePants 1",
-		"description": "Evade the Thug Tugs and bring justice to longtime rival Plankton!",
-		"developer": "Denki",
-		"url": "https://denki.co.uk/sky/sb/app.html",
-		"brand": "Nickelodeon",
-		"splash": "Nickelodeon/SpongeBob SquarePants/SpongeBob SquarePants/Splash.jpg",
-		"gameplay": "Nickelodeon/SpongeBob SquarePants/SpongeBob SquarePants/bikiniBottom.jpg",
-		"date": "2006-02-16",
-		"archived": "2023-04-16",
-		"image": "Nickelodeon/SpongeBob SquarePants/SpongeBob SquarePants/Poster.jpg",
-		"menu": null,
-		"list": "forest of fear",
-		"category": "Adventure"
-	},
-	{
-		"title": "SpongeBob SquarePants 2",
-		"description": "Help Krabs recover the secret formula!",
-		"developer": "Denki",
-		"url": "https://denki.co.uk/sky/sb2/app.html",
-		"brand": "Nickelodeon",
-		"splash": "Nickelodeon/SpongeBob SquarePants/SpongeBob SquarePants - Episode 2/Splash.jpg",
-		"gameplay": "Nickelodeon/SpongeBob SquarePants/SpongeBob SquarePants - Episode 2/Play03.jpg",
-		"date": "2006-04-27",
-		"archived": "2023-08-12",
-		"image": null,
-		"menu": null,
-		"list": "forest of fear",
-		"category": "Adventure"
-	},
-	{
-		"title": "SpongeBob SquarePants 3",
-		"description": "Where's Gary? He's been kidnapped by the ghostly Flying Dutchman!",
-		"developer": "Denki",
-		"url": "https://denki.co.uk/sky/sb3/app.html",
-		"brand": "Nickelodeon",
-		"splash": "Nickelodeon/SpongeBob SquarePants/SpongeBob SquarePants - Episode 3/Splash.jpg",
-		"gameplay": "Nickelodeon/SpongeBob SquarePants/SpongeBob SquarePants - Episode 3/Play01.jpg",
-		"date": "2006-07-06",
-		"archived": "2023-08-12",
-		"image": null,
-		"menu": null,
-		"list": "forest of fear",
-		"category": "Adventure"
-	},
-	{
-		"title": "SpongeBob SquarePants 4",
-		"description": "Plankton has duped Neptune!",
-		"developer": "Denki",
-		"url": "https://denki.co.uk/sky/sb4/app.html",
-		"brand": "Nickelodeon",
-		"splash": "Nickelodeon/SpongeBob SquarePants/SpongeBob SquarePants - Episode 4/Splash.jpg",
-		"gameplay": "Nickelodeon/SpongeBob SquarePants/SpongeBob SquarePants - Episode 4/Play01.jpg",
-		"date": "2006-08-17",
-		"archived": "2023-08-19",
-		"image": null,
-		"menu": null,
-		"list": "forest of fear",
-		"category": "Adventure"
-	},
-	{
-		"title": "Grim Adventures",
-		"description": "Use magic spells to escape the haunted house!",
-		"developer": "Denki",
-		"url": "https://denki.co.uk/sky/grim/app.html",
-		"brand": "Cartoon Network",
-		"splash": "Cartoon Network/Grim Adventures of Billy & Mandy/Grim Adventures of Billy & Mandy/Splash.jpg",
-		"gameplay": "Cartoon Network/Grim Adventures of Billy & Mandy/Grim Adventures of Billy & Mandy/FirstFloor.jpg",
-		"date": "2006-03-09",
-		"archived": "2023-04-14",
-		"image": null,
-		"menu": null,
-		"category": "Adventure"
-	},
-	{
-		"title": "Codename Kids Next Door 2.0",
-		"description": "Kids versus grown-ups, the ultimate battle of wits!",
-		"developer": "Denki",
-		"url": "https://denki.co.uk/sky/cknd2/app.html",
-		"brand": "Cartoon Network",
-		"splash": "Cartoon Network/Codename Kids Next Door 2.0/Splash.jpg",
-		"gameplay": "Cartoon Network/Codename Kids Next Door 2.0/ScreenShot_07.jpg",
-		"date": "2006-04-06",
-		"archived": "2023-04-30",
-		"image": null,
-		"menu": null,
-		"category": "Platformer"
-	},
-	{
-		"title": "Scooby-Doo: Creepy Cowboy",
-		"description": "Wild West meets ghostly ghouls...",
-		"developer": "Denki",
-		"url": "https://denki.co.uk/sky/sdm/app.html",
-		"brand": "Cartoon Network",
-		"splash": "Cartoon Network/Scooby-Doo Mysteries/Scooby-Doo Mysteries/Splash.jpg",
-		"gameplay": "Cartoon Network/Scooby-Doo Mysteries/Scooby-Doo Mysteries/Screen02.jpg",
-		"date": "2006-05-11",
-		"archived": "2023-04-27",
-		"image": null,
-		"menu": null,
-		"category": "Adventure"
-	},
-	{
-		"title": "Shrek Episode 4",
-		"description": "Help Shrek on his most important mission yet!",
-		"developer": "Denki",
-		"url": "https://denki.co.uk/sky/shrek4/app.html",
-		"brand": "Dreamworks",
-		"splash": "Dreamworks/Shrek/Shrek Episode 4/Splash.jpg",
-		"gameplay": "Dreamworks/Shrek/Shrek Episode 4/Play01.jpg",
-		"date": "2006-05-18",
-		"archived": "2023-05-13",
-		"image": null,
-		"menu": null,
-		"category": "Adventure"
-	},
-	{
-		"title": "Scooby-Doo: Tomb It May Concern",
-		"description": "Solve the curse of Ankhanamon!",
-		"developer": "Denki",
-		"url": "https://denki.co.uk/sky/sd4/app.html",
-		"brand": "Cartoon Network",
-		"splash": "Cartoon Network/Scooby-Doo Where Are You/Scooby-Doo Where Are You Episode 4/Splash.jpg",
-		"gameplay": "Cartoon Network/Scooby-Doo Where Are You/Scooby-Doo Where Are You Episode 4/Play02.jpg",
-		"date": "2006-07-27",
-		"archived": "2023-04-22",
-		"image": null,
-		"menu": null,
-		"category": "Adventure"
-	},
-	{
-		"title": "Shrek Episode 5",
-		"description": "The evil Fairy Godmother has returned!",
-		"developer": "Denki",
-		"url": "https://denki.co.uk/sky/shrek5/app.html",
-		"brand": "Dreamworks",
-		"splash": "Dreamworks/Shrek/Shrek Episode 5/splash.jpg",
-		"gameplay": "Dreamworks/Shrek/Shrek Episode 5/Play03.jpg",
-		"date": "2006-08-17",
-		"archived": "2023-05-13",
-		"image": null,
-		"menu": null,
-		"category": "Adventure"
-	},
-	{
-		"title": "Dexter: Dorkster's Revenge",
+	"title": "Dexter: Dorkster's Revenge",
 		"description": "Take the battle to Mandark's laboratory!",
 		"developer": "Denki",
 		"url": "https://denki.co.uk/sky/dl3/app.html",
+		"portal": "https://stb-gaming.github.io/sky/dl3/app.html",
+		"highscores":"https://stb-gaming.github.io/high-scores/games/dl3/",
+		"submit":"https://stb-gaming.github.io/high-scores/submit/score?game=dl3",
 		"brand": "Cartoon Network",
 		"splash": "Cartoon Network/Dexter's Laboratory/Dexter's Laboratory Episode 3/splash.jpg",
 		"gameplay": "Cartoon Network/Dexter's Laboratory/Dexter's Laboratory Episode 3/screenshot_03.jpg",
-		"date": "2006-01-12",
+		"date": "2006-01-12 00:00:00 +0000",
 		"archived": "2023-08-06",
-		"image": null,
-		"menu": null,
+		"image": "",
+		"menu": "",
+		"list": "",
 		"category": "Action"
 	},
+	
+	
+	
+	
 	{
-		"title": "Number Crunch",
+	"title": "SpongeBob SquarePants 1",
+		"description": "Evade the Thug Tugs and bring justice to longtime rival Plankton!",
+		"developer": "Denki",
+		"url": "https://denki.co.uk/sky/sb/app.html",
+		"portal": "https://stb-gaming.github.io/sky/sb/app.html",
+		"highscores":"https://stb-gaming.github.io/high-scores/games/sb/",
+		"submit":"https://stb-gaming.github.io/high-scores/submit/score?game=sb",
+		"brand": "Nickelodeon",
+		"splash": "Nickelodeon/SpongeBob SquarePants/SpongeBob SquarePants/Splash.jpg",
+		"gameplay": "Nickelodeon/SpongeBob SquarePants/SpongeBob SquarePants/bikiniBottom.jpg",
+		"date": "2006-02-16 00:00:00 +0000",
+		"archived": "2023-04-16",
+		"image": "Nickelodeon/SpongeBob SquarePants/SpongeBob SquarePants/Poster.jpg",
+		"menu": "",
+		"list": "",
+		"category": "Adventure"
+	},
+	
+	
+	
+	
+	{
+	"title": "Millionaire",
+		"description": "Everyone's favourite game show!",
+		"developer": "Denki",
+		"url": "https://denki.co.uk/sky/millionaire/app.html",
+		"portal": "https://stb-gaming.github.io/sky/millionaire/app.html",
+		"highscores":"https://stb-gaming.github.io/high-scores/games/millionaire/",
+		"submit":"https://stb-gaming.github.io/high-scores/submit/score?game=millionaire",
+		"brand": "Celador",
+		"splash": "Celador/Who Wants To Be A Millionaire/Who Wants To Be A Millionaire/Splash.jpg",
+		"gameplay": "Celador/Who Wants To Be A Millionaire/Who Wants To Be A Millionaire/Screen02.jpg",
+		"date": "2006-03-01 00:00:00 +0000",
+		"archived": "2023-09-09",
+		"image": "",
+		"menu": "",
+		"list": "",
+		"category": "Quiz"
+	},
+	
+	
+	
+	
+	{
+	"title": "Grim Adventures",
+		"description": "Use magic spells to escape the haunted house!",
+		"developer": "Denki",
+		"url": "https://denki.co.uk/sky/grim/app.html",
+		"portal": "https://stb-gaming.github.io/sky/grim/app.html",
+		"highscores":"https://stb-gaming.github.io/high-scores/games/grim/",
+		"submit":"https://stb-gaming.github.io/high-scores/submit/score?game=grim",
+		"brand": "Cartoon Network",
+		"splash": "Cartoon Network/Grim Adventures of Billy & Mandy/Grim Adventures of Billy & Mandy/Splash.jpg",
+		"gameplay": "Cartoon Network/Grim Adventures of Billy & Mandy/Grim Adventures of Billy & Mandy/FirstFloor.jpg",
+		"date": "2006-03-09 00:00:00 +0000",
+		"archived": "2023-04-14",
+		"image": "",
+		"menu": "",
+		"list": "",
+		"category": "Adventure"
+	},
+	
+	
+	
+	
+	{
+	"title": "Jumble Fever: Scooby-Doo",
+		"description": "Fruity addicting fun!",
+		"developer": "Denki",
+		"url": "https://denki.co.uk/sky/jf_sd/app.html",
+		"portal": "https://stb-gaming.github.io/sky/jf_sd/app.html",
+		"highscores":"https://stb-gaming.github.io/high-scores/games/jf_sd/",
+		"submit":"https://stb-gaming.github.io/high-scores/submit/score?game=jf_sd",
+		"brand": "SKY Games",
+		"splash": "SKY Games/Jumble Fever/Jumble Fever Scooby-Doo/ScoobySplash.jpg",
+		"gameplay": "SKY Games/Jumble Fever/Jumble Fever Scooby-Doo/ScoobyPlaySet.jpg",
+		"date": "2006-03-16 00:00:00 +0000",
+		"archived": "2023-10-14",
+		"image": "",
+		"menu": "",
+		"list": "",
+		"category": "Puzzle"
+	},
+	
+	
+	
+	
+	{
+	"title": "Millionaire Gold",
+		"description": "Now with extra gold!!",
+		"developer": "Denki",
+		"url": "https://denki.co.uk/sky/millionairegold/app.html",
+		"portal": "https://stb-gaming.github.io/sky/millionairegold/app.html",
+		"highscores":"https://stb-gaming.github.io/high-scores/games/millionairegold/",
+		"submit":"https://stb-gaming.github.io/high-scores/submit/score?game=millionairegold",
+		"brand": "Celador",
+		"splash": "Celador/Who Wants To Be A Millionaire/Who Wants To Be A Millionaire Gold Edition/GoldSplash.jpg",
+		"gameplay": "Celador/Who Wants To Be A Millionaire/Who Wants To Be A Millionaire Gold Edition/GoldScreen01.jpg",
+		"date": "2006-04-01 00:00:00 +0000",
+		"archived": "2023-09-09",
+		"image": "",
+		"menu": "",
+		"list": "",
+		"category": "Quiz"
+	},
+	
+	
+	
+	
+	{
+	"title": "Codename Kids Next Door 2.0",
+		"description": "Kids versus grown-ups, the ultimate battle of wits!",
+		"developer": "Denki",
+		"url": "https://denki.co.uk/sky/cknd2/app.html",
+		"portal": "https://stb-gaming.github.io/sky/cknd2/app.html",
+		"highscores":"https://stb-gaming.github.io/high-scores/games/cknd2/",
+		"submit":"https://stb-gaming.github.io/high-scores/submit/score?game=cknd2",
+		"brand": "Cartoon Network",
+		"splash": "Cartoon Network/Codename Kids Next Door 2.0/Splash.jpg",
+		"gameplay": "Cartoon Network/Codename Kids Next Door 2.0/ScreenShot_07.jpg",
+		"date": "2006-04-06 00:00:00 +0000",
+		"archived": "2023-04-30",
+		"image": "",
+		"menu": "",
+		"list": "",
+		"category": "Platformer"
+	},
+	
+	
+	
+	
+	{
+	"title": "Jumble Fever: Easter",
+		"description": "Fruity addicting fun!",
+		"developer": "Denki",
+		"url": "https://denki.co.uk/sky/jf_easter/app.html",
+		"portal": "https://stb-gaming.github.io/sky/jf_easter/app.html",
+		"highscores":"https://stb-gaming.github.io/high-scores/games/jf_easter/",
+		"submit":"https://stb-gaming.github.io/high-scores/submit/score?game=jf_easter",
+		"brand": "SKY Games",
+		"splash": "SKY Games/Jumble Fever/Jumble Fever Easter/EasterSplash.jpg",
+		"gameplay": "SKY Games/Jumble Fever/Jumble Fever Easter/EasterMenu.png",
+		"date": "2006-04-06 00:00:00 +0000",
+		"archived": "2023-10-14",
+		"image": "",
+		"menu": "",
+		"list": "",
+		"category": "Puzzle"
+	},
+	
+	
+	
+	
+	{
+	"title": "SpongeBob SquarePants 2",
+		"description": "Help Krabs recover the secret formula!",
+		"developer": "Denki",
+		"url": "https://denki.co.uk/sky/sb2/app.html",
+		"portal": "https://stb-gaming.github.io/sky/sb2/app.html",
+		"highscores":"https://stb-gaming.github.io/high-scores/games/sb2/",
+		"submit":"https://stb-gaming.github.io/high-scores/submit/score?game=sb2",
+		"brand": "Nickelodeon",
+		"splash": "Nickelodeon/SpongeBob SquarePants/SpongeBob SquarePants - Episode 2/Splash.jpg",
+		"gameplay": "Nickelodeon/SpongeBob SquarePants/SpongeBob SquarePants - Episode 2/Play03.jpg",
+		"date": "2006-04-27 00:00:00 +0000",
+		"archived": "2023-08-12",
+		"image": "",
+		"menu": "",
+		"list": "",
+		"category": "Adventure"
+	},
+	
+	
+	
+	
+	{
+	"title": "Scooby-Doo: Creepy Cowboy",
+		"description": "Wild West meets ghostly ghouls...",
+		"developer": "Denki",
+		"url": "https://denki.co.uk/sky/sdm/app.html",
+		"portal": "https://stb-gaming.github.io/sky/sdm/app.html",
+		"highscores":"https://stb-gaming.github.io/high-scores/games/sdm/",
+		"submit":"https://stb-gaming.github.io/high-scores/submit/score?game=sdm",
+		"brand": "Cartoon Network",
+		"splash": "Cartoon Network/Scooby-Doo Mysteries/Scooby-Doo Mysteries/Splash.jpg",
+		"gameplay": "Cartoon Network/Scooby-Doo Mysteries/Scooby-Doo Mysteries/Screen02.jpg",
+		"date": "2006-05-11 00:00:00 +0000",
+		"archived": "2023-04-27",
+		"image": "",
+		"menu": "",
+		"list": "",
+		"category": "Adventure"
+	},
+	
+	
+	
+	
+	{
+	"title": "Shrek Episode 4",
+		"description": "Help Shrek on his most important mission yet!",
+		"developer": "Denki",
+		"url": "https://denki.co.uk/sky/shrek4/app.html",
+		"portal": "https://stb-gaming.github.io/sky/shrek4/app.html",
+		"highscores":"https://stb-gaming.github.io/high-scores/games/shrek4/",
+		"submit":"https://stb-gaming.github.io/high-scores/submit/score?game=shrek4",
+		"brand": "Dreamworks",
+		"splash": "Dreamworks/Shrek/Shrek Episode 4/Splash.jpg",
+		"gameplay": "Dreamworks/Shrek/Shrek Episode 4/Play01.jpg",
+		"date": "2006-05-18 00:00:00 +0000",
+		"archived": "2023-05-13",
+		"image": "",
+		"menu": "",
+		"list": "",
+		"category": "Adventure"
+	},
+	
+	
+	
+	
+	{
+	"title": "Jumble Fever: Football",
+		"description": "Fruity addicting fun!",
+		"developer": "Denki",
+		"url": "https://denki.co.uk/sky/jf_football/app.html",
+		"portal": "https://stb-gaming.github.io/sky/jf_football/app.html",
+		"highscores":"https://stb-gaming.github.io/high-scores/games/jf_football/",
+		"submit":"https://stb-gaming.github.io/high-scores/submit/score?game=jf_football",
+		"brand": "SKY Games",
+		"splash": "SKY Games/Jumble Fever/Jumble Football Fever/FootballSplash.jpg",
+		"gameplay": "SKY Games/Jumble Fever/Jumble Football Fever/FootballPlaySet.jpg",
+		"date": "2006-06-08 00:00:00 +0000",
+		"archived": "2023-10-14",
+		"image": "",
+		"menu": "",
+		"list": "",
+		"category": "Puzzle"
+	},
+	
+	
+	
+	
+	{
+	"title": "SpongeBob SquarePants 3",
+		"description": "Where's Gary? He's been kidnapped by the ghostly Flying Dutchman!",
+		"developer": "Denki",
+		"url": "https://denki.co.uk/sky/sb3/app.html",
+		"portal": "https://stb-gaming.github.io/sky/sb3/app.html",
+		"highscores":"https://stb-gaming.github.io/high-scores/games/sb3/",
+		"submit":"https://stb-gaming.github.io/high-scores/submit/score?game=sb3",
+		"brand": "Nickelodeon",
+		"splash": "Nickelodeon/SpongeBob SquarePants/SpongeBob SquarePants - Episode 3/Splash.jpg",
+		"gameplay": "Nickelodeon/SpongeBob SquarePants/SpongeBob SquarePants - Episode 3/Play01.jpg",
+		"date": "2006-07-06 00:00:00 +0000",
+		"archived": "2023-08-12",
+		"image": "",
+		"menu": "",
+		"list": "",
+		"category": "Adventure"
+	},
+	
+	
+	
+	
+	{
+	"title": "Scooby-Doo: Tomb It May Concern",
+		"description": "Solve the curse of Ankhanamon!",
+		"developer": "Denki",
+		"url": "https://denki.co.uk/sky/sd4/app.html",
+		"portal": "https://stb-gaming.github.io/sky/sd4/app.html",
+		"highscores":"https://stb-gaming.github.io/high-scores/games/sd4/",
+		"submit":"https://stb-gaming.github.io/high-scores/submit/score?game=sd4",
+		"brand": "Cartoon Network",
+		"splash": "Cartoon Network/Scooby-Doo Where Are You/Scooby-Doo Where Are You Episode 4/Splash.jpg",
+		"gameplay": "Cartoon Network/Scooby-Doo Where Are You/Scooby-Doo Where Are You Episode 4/Play02.jpg",
+		"date": "2006-07-27 00:00:00 +0000",
+		"archived": "2023-04-22",
+		"image": "",
+		"menu": "",
+		"list": "",
+		"category": "Adventure"
+	},
+	
+	
+	
+	
+	{
+	"title": "SpongeBob SquarePants 4",
+		"description": "Plankton has duped Neptune!",
+		"developer": "Denki",
+		"url": "https://denki.co.uk/sky/sb4/app.html",
+		"portal": "https://stb-gaming.github.io/sky/sb4/app.html",
+		"highscores":"https://stb-gaming.github.io/high-scores/games/sb4/",
+		"submit":"https://stb-gaming.github.io/high-scores/submit/score?game=sb4",
+		"brand": "Nickelodeon",
+		"splash": "Nickelodeon/SpongeBob SquarePants/SpongeBob SquarePants - Episode 4/Splash.jpg",
+		"gameplay": "Nickelodeon/SpongeBob SquarePants/SpongeBob SquarePants - Episode 4/Play01.jpg",
+		"date": "2006-08-17 00:00:00 +0000",
+		"archived": "2023-08-19",
+		"image": "",
+		"menu": "",
+		"list": "",
+		"category": "Adventure"
+	},
+	
+	
+	
+	
+	{
+	"title": "Shrek Episode 5",
+		"description": "The evil Fairy Godmother has returned!",
+		"developer": "Denki",
+		"url": "https://denki.co.uk/sky/shrek5/app.html",
+		"portal": "https://stb-gaming.github.io/sky/shrek5/app.html",
+		"highscores":"https://stb-gaming.github.io/high-scores/games/shrek5/",
+		"submit":"https://stb-gaming.github.io/high-scores/submit/score?game=shrek5",
+		"brand": "Dreamworks",
+		"splash": "Dreamworks/Shrek/Shrek Episode 5/splash.jpg",
+		"gameplay": "Dreamworks/Shrek/Shrek Episode 5/Play03.jpg",
+		"date": "2006-08-17 00:00:00 +0000",
+		"archived": "2023-05-13",
+		"image": "",
+		"menu": "",
+		"list": "",
+		"category": "Adventure"
+	},
+	
+	
+	
+	
+	{
+	"title": "Number Crunch",
 		"description": "Create expressions to make target numbers and score points!",
 		"developer": "Denki",
 		"url": "https://denki.co.uk/sky/nc/app.html",
+		"portal": "https://stb-gaming.github.io/sky/nc/app.html",
+		"highscores":"https://stb-gaming.github.io/high-scores/games/nc/",
+		"submit":"https://stb-gaming.github.io/high-scores/submit/score?game=nc",
 		"brand": "Denki",
 		"splash": "Denki/Number Crunch/Splash.jpg",
 		"gameplay": "Denki/Number Crunch/Play01.jpg",
-		"date": "2006-11-09",
+		"date": "2006-11-09 00:00:00 +0000",
 		"archived": "2023-04-29",
-		"image": null,
-		"menu": null,
+		"image": "",
+		"menu": "",
+		"list": "",
 		"category": "Arithmetic"
 	},
+	
+	
+	
+	
 	{
-		"title": "All Grown Up: Confiscated Cards",
+	"title": "All Grown Up: Confiscated Cards",
 		"description": "Help the Rugrats collect Chuckie's confiscated Yu-Gotta-Go cards!",
 		"developer": "Denki",
 		"url": "https://denki.co.uk/sky/agu/app.html",
+		"portal": "https://stb-gaming.github.io/sky/agu/app.html",
+		"highscores":"https://stb-gaming.github.io/high-scores/games/agu/",
+		"submit":"https://stb-gaming.github.io/high-scores/submit/score?game=agu",
 		"brand": "Nickelodeon",
 		"splash": "Nickelodeon/Rugrats - All Grown Up!/Splash.jpg",
 		"gameplay": "Nickelodeon/Rugrats - All Grown Up!/Play04.jpg",
-		"date": "2006-12-07",
+		"date": "2006-12-07 00:00:00 +0000",
 		"archived": "2023-04-26",
-		"image": null,
-		"menu": null,
+		"image": "",
+		"menu": "",
+		"list": "",
 		"category": "Adventure"
 	},
+	
+	
+	
+	
 	{
-		"title": "Mind Aerobics",
-		"description": "Train your brain with ten different exercises!",
-		"developer": "Denki",
-		"url": "https://denki.co.uk/sky/ma/app.html",
-		"brand": "SKY Games",
-		"splash": "SKY Games/Carol Vorderman's Mind Aerobics/Carol Vorderman's Mind Aerobics/Splash.jpg",
-		"gameplay": null,
-		"date": "2007-03-15",
-		"archived": "2023-09-02",
-		"image": null,
-		"menu": "SKY Games/Carol Vorderman's Mind Aerobics/Carol Vorderman's Mind Aerobics/Menu.jpg",
-		"category": "Puzzle"
-	},
-	{
-		"title": "Kingpin Bowling",
+	"title": "Kingpin Bowling",
 		"description": "A bowling alley on your screen?",
 		"developer": "Denki",
 		"url": "https://denki.co.uk/sky/bowling/app.html",
+		"portal": "https://stb-gaming.github.io/sky/bowling/app.html",
+		"highscores":"https://stb-gaming.github.io/high-scores/games/bowling/",
+		"submit":"https://stb-gaming.github.io/high-scores/submit/score?game=bowling",
 		"brand": "SKY Games",
 		"splash": "SKY Games/Kingpin Bowling/KingpinBowlingSplash.jpg",
 		"gameplay": "SKY Games/Kingpin Bowling/KingpinBowlingPlay01.jpg",
-		"date": "2007-02-08",
+		"date": "2007-02-08 00:00:00 +0000",
 		"archived": "2023-04-29",
-		"image": null,
-		"menu": null,
-		"category": "Sports",
-		"list": "family"
+		"image": "",
+		"menu": "",
+		"list": "",
+		"category": "Sports"
 	},
+	
+	
+	
+	
 	{
-		"title": "Jumble Quest",
+	"title": "Mind Aerobics",
+		"description": "Train your brain with ten different exercises!",
+		"developer": "Denki",
+		"url": "https://denki.co.uk/sky/ma/app.html",
+		"portal": "https://stb-gaming.github.io/sky/ma/app.html",
+		"highscores":"https://stb-gaming.github.io/high-scores/games/ma/",
+		"submit":"https://stb-gaming.github.io/high-scores/submit/score?game=ma",
+		"brand": "SKY Games",
+		"splash": "SKY Games/Carol Vorderman's Mind Aerobics/Carol Vorderman's Mind Aerobics/Splash.jpg",
+		"gameplay": "",
+		"date": "2007-03-15 00:00:00 +0000",
+		"archived": "2023-09-02",
+		"image": "",
+		"menu": "SKY Games/Carol Vorderman's Mind Aerobics/Carol Vorderman's Mind Aerobics/Menu.jpg",
+		"list": "",
+		"category": "Puzzle"
+	},
+	
+	
+	
+	
+	{
+	"title": "Jumble Fever: Beehive",
+		"description": "Fruity addicting fun!",
+		"developer": "Denki",
+		"url": "https://denki.co.uk/sky/jf_beehive/app.html",
+		"portal": "https://stb-gaming.github.io/sky/jf_beehive/app.html",
+		"highscores":"https://stb-gaming.github.io/high-scores/games/jf_beehive/",
+		"submit":"https://stb-gaming.github.io/high-scores/submit/score?game=jf_beehive",
+		"brand": "SKY Games",
+		"splash": "SKY Games/Jumble Fever/Jumble Fever Beehive Bedlam/Splash.jpg",
+		"gameplay": "SKY Games/Jumble Fever/Jumble Fever Beehive Bedlam/PlaySet.jpg",
+		"date": "2007-03-22 00:00:00 +0000",
+		"archived": "2023-10-14",
+		"image": "",
+		"menu": "",
+		"list": "",
+		"category": "Puzzle"
+	},
+	
+	
+	
+	
+	{
+	"title": "Robotboy Episode 1",
+		"description": "Kamikazi has kidnapped Robotboy's friends!",
+		"developer": "Denki",
+		"url": "https://denki.co.uk/sky/robotboy1/app.html",
+		"portal": "https://stb-gaming.github.io/sky/robotboy1/app.html",
+		"highscores":"https://stb-gaming.github.io/high-scores/games/robotboy1/",
+		"submit":"https://stb-gaming.github.io/high-scores/submit/score?game=robotboy1",
+		"brand": "Cartoon Network",
+		"splash": "Cartoon Network/Robotboy/Robotboy Kamikaze Kidnap/FrontEnd.jpg",
+		"gameplay": "Cartoon Network/Robotboy/Robotboy Kamikaze Kidnap/Play01.jpg",
+		"date": "2007-03-29 00:00:00 +0000",
+		"archived": "2023-09-30",
+		"image": "",
+		"menu": "",
+		"list": "",
+		"category": "Action"
+	},
+	
+	
+	
+	
+	{
+	"title": "Jumble Fever: Shrek",
+		"description": "Fruity addicting fun!",
+		"developer": "Denki",
+		"url": "https://denki.co.uk/sky/jf_shrek/app.html",
+		"portal": "https://stb-gaming.github.io/sky/jf_shrek/app.html",
+		"highscores":"https://stb-gaming.github.io/high-scores/games/jf_shrek/",
+		"submit":"https://stb-gaming.github.io/high-scores/submit/score?game=jf_shrek",
+		"brand": "SKY Games",
+		"splash": "",
+		"gameplay": "SKY Games/Jumble Fever/Jumble Fever Shrek/Play1.jpg",
+		"date": "2007-04-05 00:00:00 +0000",
+		"archived": "2023-10-14",
+		"image": "",
+		"menu": "SKY Games/Jumble Fever/Jumble Fever Shrek/ModeSelect.jpg",
+		"list": "",
+		"category": "Puzzle"
+	},
+	
+	
+	
+	
+	{
+	"title": "Jumble Quest",
 		"description": "Match gems to uncover the Lost Pyramids!",
 		"developer": "Denki",
 		"url": "https://denki.co.uk/sky/jq/app.html",
+		"portal": "https://stb-gaming.github.io/sky/jq/app.html",
+		"highscores":"https://stb-gaming.github.io/high-scores/games/jq/",
+		"submit":"https://stb-gaming.github.io/high-scores/submit/score?game=jq",
 		"brand": "SKY Games",
 		"splash": "SKY Games/Jumble Quest/Splash.jpg",
 		"gameplay": "SKY Games/Jumble Quest/Play_02.jpg",
-		"date": "2007-04-05",
+		"date": "2007-04-05 00:00:00 +0000",
 		"archived": "2023-05-06",
-		"image": null,
-		"menu": null,
-		"list": "family",
+		"image": "",
+		"menu": "",
+		"list": "",
 		"category": "Puzzle"
 	},
+	
+	
+	
+	
 	{
-		"title": "Shrek the Third",
+	"title": "Shrek the Third",
 		"description": "The royal bloodline is in need of a heir!",
 		"developer": "Denki",
 		"url": "https://denki.co.uk/sky/shrekthird/app.html",
+		"portal": "https://stb-gaming.github.io/sky/shrekthird/app.html",
+		"highscores":"https://stb-gaming.github.io/high-scores/games/shrekthird/",
+		"submit":"https://stb-gaming.github.io/high-scores/submit/score?game=shrekthird",
 		"brand": "Dreamworks",
 		"splash": "Dreamworks/Shrek the Third/Splash.jpg",
 		"gameplay": "Dreamworks/Shrek the Third/Play02.jpg",
-		"date": "2007-06-14",
+		"date": "2007-06-14 00:00:00 +0000",
 		"archived": "2023-05-06",
-		"image": null,
-		"menu": null,
+		"image": "",
+		"menu": "",
+		"list": "",
 		"category": "Adventure"
 	},
+	
+	
+	
+	
 	{
-		"title": "Bugz",
+	"title": "Bugz",
 		"description": "The fate of the bug world rests on your shell!",
 		"developer": "Denki",
 		"url": "https://denki.co.uk/sky/bugz/app.html",
+		"portal": "https://stb-gaming.github.io/sky/bugz/app.html",
+		"highscores":"https://stb-gaming.github.io/high-scores/games/bugz/",
+		"submit":"https://stb-gaming.github.io/high-scores/submit/score?game=bugz",
 		"brand": "SKY Games",
-		"splash": null,
+		"splash": "",
 		"gameplay": "SKY Games/Bugz/Play01.jpg",
-		"date": "2007-06-21",
+		"date": "2007-06-21 00:00:00 +0000",
 		"archived": "2023-05-05",
 		"image": "SKY Games/Bugz/icon.jpg",
 		"menu": "SKY Games/Bugz/ModeSelect.jpg",
+		"list": "",
 		"category": "Maze"
 	},
+	
+	
+	
+	
 	{
-		"title": "Tom and Jerry: Dynamice",
+	"title": "Robotboy Episode 2",
+		"description": "A gargantuan creation awaits Robotboy!",
+		"developer": "Denki",
+		"url": "https://denki.co.uk/sky/robotboy2/app.html",
+		"portal": "https://stb-gaming.github.io/sky/robotboy2/app.html",
+		"highscores":"https://stb-gaming.github.io/high-scores/games/robotboy2/",
+		"submit":"https://stb-gaming.github.io/high-scores/submit/score?game=robotboy2",
+		"brand": "Cartoon Network",
+		"splash": "Cartoon Network/Robotboy/Robotboy Something in the Darkness Drools/Splash.jpg",
+		"gameplay": "Cartoon Network/Robotboy/Robotboy Something in the Darkness Drools/Play1.jpg",
+		"date": "2007-07-05 00:00:00 +0000",
+		"archived": "2023-09-30",
+		"image": "",
+		"menu": "",
+		"list": "",
+		"category": "Action"
+	},
+	
+	
+	
+	
+	{
+	"title": "Jumble Fever: SpongeBob",
+		"description": "Fruity addicting fun!",
+		"developer": "Denki",
+		"url": "https://denki.co.uk/sky/jf_sb/app.html",
+		"portal": "https://stb-gaming.github.io/sky/jf_sb/app.html",
+		"highscores":"https://stb-gaming.github.io/high-scores/games/jf_sb/",
+		"submit":"https://stb-gaming.github.io/high-scores/submit/score?game=jf_sb",
+		"brand": "SKY Games",
+		"splash": "SKY Games/Jumble Fever/Jumble Fever SpongeBob SquarePants/Splash.bmp",
+		"gameplay": "SKY Games/Jumble Fever/Jumble Fever SpongeBob SquarePants/Play1.jpg",
+		"date": "2007-07-12 00:00:00 +0000",
+		"archived": "2023-10-14",
+		"image": "",
+		"menu": "",
+		"list": "",
+		"category": "Puzzle"
+	},
+	
+	
+	
+	
+	{
+	"title": "Tom and Jerry: Dynamice",
 		"description": "Bombs away!",
 		"developer": "Denki",
 		"url": "https://denki.co.uk/sky/dynamice/app.html",
+		"portal": "https://stb-gaming.github.io/sky/dynamice/app.html",
+		"highscores":"https://stb-gaming.github.io/high-scores/games/dynamice/",
+		"submit":"https://stb-gaming.github.io/high-scores/submit/score?game=dynamice",
 		"brand": "Cartoon Network",
 		"splash": "Cartoon Network/Tom and Jerry/Tom and Jerry Dynamice/DenkiSplash.bmp",
 		"gameplay": "Cartoon Network/Tom and Jerry/Tom and Jerry Dynamice/Dynamice03.png",
-		"date": "2007-09-13",
+		"date": "2007-09-13 00:00:00 +0000",
 		"archived": "2023-04-20",
-		"image": null,
-		"menu": null,
-		"list": "family",
+		"image": "",
+		"menu": "",
+		"list": "",
 		"category": "Maze"
 	},
+	
+	
+	
+	
 	{
-		"title": "Lego Castle: The Sword of Virtue",
+	"title": "Lego Castle: The Sword of Virtue",
 		"description": "Save the West from siege!",
 		"developer": "Denki",
 		"url": "https://denki.co.uk/sky/lego/app.html",
+		"portal": "https://stb-gaming.github.io/sky/lego/app.html",
+		"highscores":"https://stb-gaming.github.io/high-scores/games/lego/",
+		"submit":"https://stb-gaming.github.io/high-scores/submit/score?game=lego",
 		"brand": "LEGO",
 		"splash": "LEGO/LEGO Castle/DenkiSplash.bmp",
 		"gameplay": "LEGO/LEGO Castle/Play02.jpg",
-		"date": "2007-10-13",
+		"date": "2007-10-13 00:00:00 +0000",
 		"archived": "2023-06-22",
-		"image": null,
-		"menu": null,
+		"image": "",
+		"menu": "",
+		"list": "",
 		"category": "Adventure"
 	},
+	
+	
+	
+	
 	{
-		"title": "Ben 10: Vilgax Venom",
+	"title": "Ben 10: Vilgax Venom",
 		"description": "Fight off robots in an alien assault!",
 		"developer": "Denki",
 		"url": "https://denki.co.uk/sky/ben10/app.html",
+		"portal": "https://stb-gaming.github.io/sky/ben10/app.html",
+		"highscores":"https://stb-gaming.github.io/high-scores/games/ben10/",
+		"submit":"https://stb-gaming.github.io/high-scores/submit/score?game=ben10",
 		"brand": "Cartoon Network",
 		"splash": "Cartoon Network/Ben10/Ben 10 Episode 1 Vilgax Venom/Splash.jpg",
 		"gameplay": "Cartoon Network/Ben10/Ben 10 Episode 1 Vilgax Venom/Play01.jpg",
-		"date": "2007-11-08",
+		"date": "2007-11-08 00:00:00 +0000",
 		"archived": "2023-06-12",
-		"image": null,
-		"menu": null,
+		"image": "",
+		"menu": "",
+		"list": "",
 		"category": "Action"
 	},
+	
+	
+	
+	
 	{
-		"title": "The Muppet Show",
+	"title": "Jumble Fever: Avatar",
+		"description": "Fruity addicting fun!",
+		"developer": "Denki",
+		"url": "https://denki.co.uk/sky/jf_avatar/app.html",
+		"portal": "https://stb-gaming.github.io/sky/jf_avatar/app.html",
+		"highscores":"https://stb-gaming.github.io/high-scores/games/jf_avatar/",
+		"submit":"https://stb-gaming.github.io/high-scores/submit/score?game=jf_avatar",
+		"brand": "SKY Games",
+		"splash": "SKY Games/Jumble Fever/Avatar Jumble Fever/splash.bmp",
+		"gameplay": "SKY Games/Jumble Fever/Avatar Jumble Fever/Play01.bmp",
+		"date": "2007-11-22 00:00:00 +0000",
+		"archived": "2023-10-14",
+		"image": "",
+		"menu": "",
+		"list": "",
+		"category": "Puzzle"
+	},
+	
+	
+	
+	
+	{
+	"title": "Robotboy Episode 3",
+		"description": "Help repair Robotboy's Superactivator!",
+		"developer": "Denki",
+		"url": "https://denki.co.uk/sky/robotboy3/app.html",
+		"portal": "https://stb-gaming.github.io/sky/robotboy3/app.html",
+		"highscores":"https://stb-gaming.github.io/high-scores/games/robotboy3/",
+		"submit":"https://stb-gaming.github.io/high-scores/submit/score?game=robotboy3",
+		"brand": "Cartoon Network",
+		"splash": "Cartoon Network/Robotboy/Robotboy Repair or Despair/Splash copy.jpg",
+		"gameplay": "Cartoon Network/Robotboy/Robotboy Repair or Despair/Play01 copy.jpg",
+		"date": "2007-11-29 00:00:00 +0000",
+		"archived": "2023-09-30",
+		"image": "",
+		"menu": "",
+		"list": "",
+		"category": "Action"
+	},
+	
+	
+	
+	
+	{
+	"title": "The Muppet Show",
 		"description": "Honeydew's chemical experiment has gone hay!",
 		"developer": "Denki",
 		"url": "https://denki.co.uk/sky/muppets/app.html",
+		"portal": "https://stb-gaming.github.io/sky/muppets/app.html",
+		"highscores":"https://stb-gaming.github.io/high-scores/games/muppets/",
+		"submit":"https://stb-gaming.github.io/high-scores/submit/score?game=muppets",
 		"brand": "Disney",
 		"splash": "Disney/The Muppets/Splash.jpg",
 		"gameplay": "Disney/The Muppets/Play2 copy.jpg",
-		"date": "2007-12-13",
+		"date": "2007-12-13 00:00:00 +0000",
 		"archived": "2023-05-06",
-		"image": null,
-		"menu": null,
-		"list": "family",
+		"image": "",
+		"menu": "",
+		"list": "",
 		"category": "Platformer"
 	},
+	
+	
+	
+	
 	{
-		"title": "Denki's Sticky Blocks!",
+	"title": "Denki's Sticky Blocks!",
 		"description": "Denki Blocks is back and stickier than ever!",
 		"developer": "Denki",
 		"url": "https://denki.co.uk/sky/stb/app.html",
+		"portal": "https://stb-gaming.github.io/sky/stb/app.html",
+		"highscores":"https://stb-gaming.github.io/high-scores/games/stb/",
+		"submit":"https://stb-gaming.github.io/high-scores/submit/score?game=stb",
 		"brand": "Denki",
 		"splash": "Denki/Denki Blocks!/Sticky Blocks!/Splash copy.jpg",
 		"gameplay": "Denki/Denki Blocks!/Sticky Blocks!/play2 copy.jpg",
-		"date": "2008-03-06",
+		"date": "2008-03-06 00:00:00 +0000",
 		"archived": "2023-08-05",
-		"image": null,
+		"image": "",
 		"menu": "Denki/Denki Blocks!/Sticky Blocks!/ModeSelect copy.jpg",
+		"list": "",
 		"category": "Puzzle"
 	},
+	
+	
+	
+	
 	{
-		"title": "Robotboy: Tag Team Trouble",
+	"title": "Robotboy Episode 4",
 		"description": "Double trouble for Robotboy and friends!",
 		"developer": "Denki",
-		"url": "https://denki.co.uk/sky/robotboy/app.html",
+		"url": "https://denki.co.uk/sky/robotboy4/app.html",
+		"portal": "https://stb-gaming.github.io/sky/robotboy4/app.html",
+		"highscores":"https://stb-gaming.github.io/high-scores/games/robotboy4/",
+		"submit":"https://stb-gaming.github.io/high-scores/submit/score?game=robotboy4",
 		"brand": "Cartoon Network",
 		"splash": "Cartoon Network/Robotboy/Robotboy Tag Team Trouble/Splash.jpg",
 		"gameplay": "Cartoon Network/Robotboy/Robotboy Tag Team Trouble/Play01.jpg",
-		"date": "2008-08-14",
+		"date": "2008-08-14 00:00:00 +0000",
 		"archived": "2023-04-16",
-		"image": null,
-		"menu": null,
+		"image": "",
+		"menu": "",
+		"list": "",
 		"category": "Action"
 	},
+	
+	
+	
+	
 	{
-		"title": "Golden Balls",
+	"title": "Golden Balls",
 		"description": "A game of trust and bluff!",
 		"developer": "Denki",
 		"url": "https://denki.co.uk/sky/gb/app.html",
+		"portal": "https://stb-gaming.github.io/sky/gb/app.html",
+		"highscores":"https://stb-gaming.github.io/high-scores/games/gb/",
+		"submit":"https://stb-gaming.github.io/high-scores/submit/score?game=gb",
 		"brand": "Endemol",
-		"splash": null,
+		"splash": "",
 		"gameplay": "Endemol/Golden Balls/Gameplay1.png",
-		"date": "2008-10-09",
+		"date": "2008-10-09 00:00:00 +0000",
 		"archived": "2023-08-05",
-		"image": null,
+		"image": "",
 		"menu": "Endemol/Golden Balls/Menu.png",
+		"list": "",
 		"category": "Gameshow"
 	},
+	
+	
+	
+	
 	{
-		"title": "Wall-E",
+	"title": "Sky Snake",
+		"description": "",
+		"developer": "",
+		"url": "https://stb-gaming.github.io/sky/sky-snake/app.html",
+		"portal": "https://stb-gaming.github.io/sky/sky-snake/app.html",
+		"highscores":"https://stb-gaming.github.io/high-scores/games/sky-snake/",
+		"submit":"https://stb-gaming.github.io/high-scores/submit/score?game=sky-snake",
+		"brand": "",
+		"splash": "",
+		"gameplay": "",
+		"date": "2023-10-22 08:36:35 +0000",
+		"archived": "",
+		"image": "",
+		"menu": "",
+		"list": "",
+		"category": ""
+	},
+	
+	
+	
+	
+	{
+	"title": "Tom and jerry food fight",
+		"description": "",
+		"developer": "",
+		"url": "https://stb-gaming.github.io/sky/tj_ff/app.html",
+		"portal": "https://stb-gaming.github.io/sky/tj_ff/app.html",
+		"highscores":"https://stb-gaming.github.io/high-scores/games/tj_ff/",
+		"submit":"https://stb-gaming.github.io/high-scores/submit/score?game=tj_ff",
+		"brand": "",
+		"splash": "",
+		"gameplay": "",
+		"date": "2023-10-22 08:36:35 +0000",
+		"archived": "",
+		"image": "",
+		"menu": "",
+		"list": "",
+		"category": ""
+	},
+	
+	
+	
+	
+	{
+	"title": "Wall-E",
 		"description": "On a mission that determines the fate of humanity on Earth!",
 		"developer": "Denki",
 		"url": "https://denki.co.uk/sky/walle/app.html",
+		"portal": "https://stb-gaming.github.io/sky/walle/app.html",
+		"highscores":"https://stb-gaming.github.io/high-scores/games/walle/",
+		"submit":"https://stb-gaming.github.io/high-scores/submit/score?game=walle",
 		"brand": "Disney",
-		"splash": null,
+		"splash": "",
 		"gameplay": "Disney/WALL.E/gameplay.png",
-		"date": "2008-12-04",
+		"date": "2008-12-04 00:00:00 +0000",
 		"archived": "2023-06-24",
-		"image": null,
+		"image": "",
 		"menu": "Disney/WALL.E/menu.png",
+		"list": "",
 		"category": "Adventure"
 	}
+	
 ]

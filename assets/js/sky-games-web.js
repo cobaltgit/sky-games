@@ -34,7 +34,7 @@ Array.from(document.getElementsByClassName("game")).forEach(g => {
 		loadingGame = {
 			splash: splash(image_prefix + (g.dataset.splash || g.dataset.image)),
 			timeout: setTimeout(() => {
-				window.location.href = g.dataset.url;
+				window.location.href = g.dataset.portal||g.dataset.url;
 			}, 5000)
 		};
 	});
